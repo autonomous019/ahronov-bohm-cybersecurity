@@ -9,3 +9,6 @@ Plans and diagrams will be uploaded soon.
 The frequency_driver.ino is a Arduino Sketch file designed for use with the Ahronov-Bohm coil a piece of the Ahronov-Bohm generator created by Dr. Hal Puthoff. 
 
 Full instructions pending 
+
+Coil construction and Arduino Board setup is avialable here, note this repository if for a different purpose and uses a different sketch file then used in the original version. 
+NRG Excess Correlation Coil and Arduino Board Instructions: https://www.youtube.com/watch?v=MOlmLWQAIqI
