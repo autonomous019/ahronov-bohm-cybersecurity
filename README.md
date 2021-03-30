@@ -26,9 +26,12 @@ International Journal of Unconventional Science
 Issue E2, pp. 23-40, 2017 http://www.unconv-science.org/e2/kernbach1
 Association of Unconventional Science, 2017
 
-
 Kernbach, Serge (2018) Replication experiment on distant influence on biological organisms conducted in 1986, IJUS, Issue E2, pages 41-46, 2018 http://www.unconv-science.org/pdf/e2/kernbach2-en.pdf
 
+
+Murugan, N., Karbowski, L. Dotta, B., Persinger, M. (2015) Delayed Shifts in pH Responses to Weak Acids in Spring Water Exposed to Circular Rotating Magnetic Fields: A Narrow Band Intensity-Dependence
+January 2015International Research Journal of Pure and Applied Chemistry 5(2):131-139
+DOI: 10.9734/IRJPAC/2015/13156
 
 
 
