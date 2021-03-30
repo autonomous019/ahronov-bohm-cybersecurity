@@ -6,7 +6,7 @@ It is based on the utilization of the Ahronov-Bohm effect, creating a potential 
 
 Plans and diagrams will be uploaded soon. 
 
-The frequency_driver.ino is a Arduino Sketch file designed for use with the Ahronov-Bohm coil a piece of the Ahronov-Bohm generator created by Dr. Hal Puthoff. 
+The frequency_driver.ino is a Arduino Sketch file designed for use with the Ahronov-Bohm coil a piece of the Ahronov-Bohm generator created by Dr. Hal Puthoff. It generates totally random frequencies.  I prefer the accelerate_frequency_driver.ino it sets 4 random frequencies before a repeating pattern of accelerating waves forms.
 
 Full instructions pending 
 
@@ -32,6 +32,9 @@ Kernbach, Serge (2018) Replication experiment on distant influence on biological
 Murugan, N., Karbowski, L. Dotta, B., Persinger, M. (2015) Delayed Shifts in pH Responses to Weak Acids in Spring Water Exposed to Circular Rotating Magnetic Fields: A Narrow Band Intensity-Dependence
 January 2015International Research Journal of Pure and Applied Chemistry 5(2):131-139
 DOI: 10.9734/IRJPAC/2015/13156
+
+Lehman, B., Scott, M. Rouleau, N., Tessaro, L. (2015) Experimental Production of Excess Correlation across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power Between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II)
+September 2015 https://www.researchgate.net/publication/282661047_Experimental_Production_of_Excess_Correlation_across_the_Atlantic_Ocean_of_Right_Hemispheric_Theta-Gamma_Power_Between_Subject_Pairs_Sharing_Circumcerebral_Rotating_Magnetic_Fields_Part_II
 
 
 
