@@ -37,4 +37,4 @@ Lehman, B., Scott, M. Rouleau, N., Tessaro, L. (2015) Experimental Production of
 September 2015 https://www.researchgate.net/publication/282661047_Experimental_Production_of_Excess_Correlation_across_the_Atlantic_Ocean_of_Right_Hemispheric_Theta-Gamma_Power_Between_Subject_Pairs_Sharing_Circumcerebral_Rotating_Magnetic_Fields_Part_II
 see video presentation at Consciousness Hacking: https://www.youtube.com/watch?v=L5I3wOyo-rg
 
-
+Komal Saxena, Pushpendra Singh, Pathik Sahoo, Satyajit Sahu, Subrata Ghosh, Kanad Ray, Daisuke Fujita, Anirban Bandyopadhyay. Fractal, Scale Free Electromagnetic Resonance of a Single Brain Extracted Microtubule Nanowire, a Single Tubulin Protein and a Single Neuron. Fractal and Fractional. 4 [2] (2020) 11 10.3390/fractalfract4020011
