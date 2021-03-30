@@ -15,7 +15,7 @@ NRG Excess Correlation Coil and Arduino Board Instructions: https://www.youtube.
 
 
 
-Works Cited:
+<b>Works Cited:</b>
 
 S. A. Koren, M. A. Persinger (2002) Possible Disruption of Remote Viewing by Complex Weak Magnetic Fields around the Stimulus Site and the Possibility of Accessing Real Phase Space: A Pilot Study
 First Published December 1, 2002 Research Article Find in PubMed
