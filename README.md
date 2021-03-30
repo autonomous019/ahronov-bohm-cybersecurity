@@ -31,7 +31,7 @@ Kernbach, Serge (2018) Replication experiment on distant influence on biological
 
 Murugan, N., Karbowski, L. Dotta, B., Persinger, M. (2015) Delayed Shifts in pH Responses to Weak Acids in Spring Water Exposed to Circular Rotating Magnetic Fields: A Narrow Band Intensity-Dependence
 January 2015International Research Journal of Pure and Applied Chemistry 5(2):131-139
-DOI: 10.9734/IRJPAC/2015/13156
+DOI: 10.9734/IRJPAC/2015/13156 https://www.researchgate.net/publication/282624530_Delayed_Shifts_in_pH_Responses_to_Weak_Acids_in_Spring_Water_Exposed_to_Circular_Rotating_Magnetic_Fields_A_Narrow_Band_Intensity-Dependence
 
 Lehman, B., Scott, M. Rouleau, N., Tessaro, L. (2015) Experimental Production of Excess Correlation across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power Between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II)
 September 2015 https://www.researchgate.net/publication/282661047_Experimental_Production_of_Excess_Correlation_across_the_Atlantic_Ocean_of_Right_Hemispheric_Theta-Gamma_Power_Between_Subject_Pairs_Sharing_Circumcerebral_Rotating_Magnetic_Fields_Part_II
