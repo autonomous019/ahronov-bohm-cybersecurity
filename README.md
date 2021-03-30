@@ -8,13 +8,14 @@ It is based on the utilization of the Ahronov-Bohm effect, creating a potential 
 The frequency_driver.ino is a Arduino Sketch file designed for use with the Ahronov-Bohm coil a piece of the Ahronov-Bohm generator created by Dr. Hal Puthoff. It generates totally random frequencies.  I prefer the accelerate_frequency_driver.ino it sets 4 random frequencies before a repeating pattern of accelerating EM waves forms.
 
 <b>Threat Analysis:</b>
-    Since the end of World War I, the study of EM and Gravitational Waves for the purpose of information warfare (McCarron, 2021) has been persued by global strategic players such as the Nazi Regime in Germany, the USSR, and NATO alliance, while also persued by the Peoples Republic of China (PRC).  A full review of information warfare using signals and cybernetics is covered in McCarron 2021. 
+
+
+Since the end of World War I, the study of EM and Gravitational Waves for the purpose of information warfare (McCarron, 2021) has been persued by global strategic players such as the Nazi Regime in Germany, the USSR, and NATO alliance, while also persued by the Peoples Republic of China (PRC).  A full review of information warfare using signals and cybernetics is covered in McCarron 2021. 
+ 
+The threat of using EM and Gravitoelectromagnetic weapons, of which Ahronov-Bohm (A-B) effect is a party to, was encountered primarily in the 1980s in the USSR. Soviet military-industrial research focused on 'remote biological effects' or remote (non-local, entanglement) influencing using A-B generators designed initially by Akhimov (Kernbach, 2017) around 1986 at least.  Later his research associate A V Bobrov experimented with using LEDs with modulated pulsed rhythms for the same purpose.  Previous to this Soviet research also focused on using gravitational waves for the purposes of non-local influence, possibly also involving the prposed Gravitational Ahronov-Bohm effect. After the fall of the Soviet Union Soviet researchers were brought to the west to be debriefed, for instance Okhtarin was interviewed by the CIA regarding his research into remote influencing using the Ahronov-Bohm effect (McCarron, 2021). In western parlance remote influencing is known as 'remote action'. When the Russians came west they were employeed by Lockheed-Martin to collaborate with their engineers, such as Dr. John Norseen who invented 'Bio-Fusion' and 'Thought-Injection' technology based on previous Soviet inventions. It is also worth noting that this technology is available on the black market according to Dr. Kernbach.  Incidents in the Soviet Union targeting the US Embassy using this technology are well documented (McCarron, 2021).  And recently the Havana US Embassy incident implicated the use of remote influencing technology as the source of the medical problems encountered by embassy staff. Additionally, former US military personnel are complaining of receiving the same remote influencing effects as that as the Embassy staff.
     
     
-    The threat of using EM and Gravitoelectromagnetic weapons, of which Ahronov-Bohm (A-B) effect is a party to, was encountered primarily in the 1980s in the USSR. Soviet military-industrial research focused on 'remote biological effects' or remote (non-local, entanglement) influencing using A-B generators designed initially by Akhimov (Kernbach, 2017) around 1986 at least.  Later his research associate A V Bobrov experimented with using LEDs with modulated pulsed rhythms for the same purpose.  Previous to this Soviet research also focused on using gravitational waves for the purposes of non-local influence, possibly also involving the prposed Gravitational Ahronov-Bohm effect. After the fall of the Soviet Union Soviet researchers were brought to the west to be debriefed, for instance Okhtarin was interviewed by the CIA regarding his research into remote influencing using the Ahronov-Bohm effect (McCarron, 2021). In western parlance remote influencing is known as 'remote action'. When the Russians came west they were employeed by Lockheed-Martin to collaborate with their engineers, such as Dr. John Norseen who invented 'Bio-Fusion' and 'Thought-Injection' technology based on previous Soviet inventions. It is also worth noting that this technology is available on the black market according to Dr. Kernbach.  Incidents in the Soviet Union targeting the US Embassy using this technology are well documented (McCarron, 2021).  And recently the Havana US Embassy incident implicated the use of remote influencing technology as the source of the medical problems encountered by embassy staff. Additionally, former US military personnel are complaining of receiving the same remote influencing effects as that as the Embassy staff.
-    
-    
-    The scientific literature on the weaponization for the purposes of cyber attack are well established, although primarily only in Russian academic journals and languages. While Krishnan (2017) did not find evidence for their reality the Havana incident scientifically has documented the effect, and it's use as a weapon. Western academics have provided research and experimental data establishing it's validity.  The Persinger Group of Laurentian University, a pariochial school in Sudbury, Ontario has conducted numerous experiments showing that remote influencing is well founded in scientific theory.  Their work is also confirmed by the finding of Dr. Serge Kernbach at the University of Stuttgart, who is a Russian professor of cybernetics, the association of remote biological influence and cybernetics in Russia is a intertwined reaility.
+The scientific literature on the weaponization for the purposes of cyber attack are well established, although primarily only in Russian academic journals and languages. While Krishnan (2017) did not find evidence for their reality the Havana incident scientifically has documented the effect, and it's use as a weapon. Western academics have provided research and experimental data establishing it's validity.  The Persinger Group of Laurentian University, a pariochial school in Sudbury, Ontario has conducted numerous experiments showing that remote influencing is well founded in scientific theory.  Their work is also confirmed by the finding of Dr. Serge Kernbach at the University of Stuttgart, who is a Russian professor of cybernetics, the association of remote biological influence and cybernetics in Russia is a intertwined reaility.
     
     
     
@@ -44,14 +45,14 @@ Step 1: Make a Coil, see NRG Deep Correlation Video: https://www.youtube.com/wat
 Step 2: Wire up the Arduino and Breadboard 
 place the breadboard in front of you, and the Arduino board above the Breadboard with the power connector (connects to laptop usb) to the left. (see video https://www.youtube.com/watch?v=iRq9ksZmrQc&t=3s )
 
-    1. connect LED to pin 21 and 22
-    2. on the Arduino Uno out pin 9 to pin 21 infront right leg of LED. Connet gound pin 9 to Breadboard - negative base. 
-    3. Take 1K Ohm Resistor and connect to pin 22 inf front of LED short leg, connect resistor out to pin 20 in front of 120 TIP V regulator.
-    4. Voltage regulator, facing properly (see video) metal hole mount to rear, pace in pin 20,19,18
-    5. Ground regulator (red wire from regulator out 19, place in front)
-    6. In to coil, pin 19 in front of V regulator pin 19
-    7. Diode, (grey strip is out) grey end into + positive of breadboard base. In goes to pin 19 behind out to coil. (see video) 
-    8. Coil out to negative on board base.
+1. connect LED to pin 21 and 22
+2. on the Arduino Uno out pin 9 to pin 21 infront right leg of LED. Connet gound pin 9 to Breadboard - negative base. 
+3. Take 1K Ohm Resistor and connect to pin 22 inf front of LED short leg, connect resistor out to pin 20 in front of 120 TIP V regulator.
+4. Voltage regulator, facing properly (see video) metal hole mount to rear, pace in pin 20,19,18
+5. Ground regulator (red wire from regulator out 19, place in front)
+6. In to coil, pin 19 in front of V regulator pin 19
+7. Diode, (grey strip is out) grey end into + positive of breadboard base. In goes to pin 19 behind out to coil. (see video) 
+8. Coil out to negative on board base.
     
 Step 3: open accelerate_frequency.ino into Arduino LED then upload to Arduino Board.
     
