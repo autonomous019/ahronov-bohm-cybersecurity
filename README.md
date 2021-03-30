@@ -35,6 +35,6 @@ DOI: 10.9734/IRJPAC/2015/13156 https://www.researchgate.net/publication/28262453
 
 Lehman, B., Scott, M. Rouleau, N., Tessaro, L. (2015) Experimental Production of Excess Correlation across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power Between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II)
 September 2015 https://www.researchgate.net/publication/282661047_Experimental_Production_of_Excess_Correlation_across_the_Atlantic_Ocean_of_Right_Hemispheric_Theta-Gamma_Power_Between_Subject_Pairs_Sharing_Circumcerebral_Rotating_Magnetic_Fields_Part_II
-
+see video presentation at Consciousness Hacking: https://www.youtube.com/watch?v=L5I3wOyo-rg
 
 
