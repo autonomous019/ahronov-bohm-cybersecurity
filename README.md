@@ -136,3 +136,7 @@ Persinger Group Direct Experiments
     • Scott, M.A., Rouleau, N., Lehman, B.S., Tessaro, L.W.E., Juden-Kelly, L.M. and Persinger, M.A. (2015) Experimental Production of Excess Correlation Across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II). Journal of Consciousness Research & Exploration, 6, 658-707.
 
     • Puthoff, H. (1998) US Patent 5845220 ‘Communication Method and Apparatus with Singals Comprising Scalar and Vector Petentials without Electromagnetic Fields [Ahronov-Bohm Generator]
+
+
+Verma, R., et al (2019) Neuroimaging Findings in US Government Personnel With Possible Exposure to Directional Phenomena in Havana, CubaJAMA. 2019;322(4):336-347. doi:10.1001/jama.2019.9269
+
