@@ -75,6 +75,15 @@ NRG Excess Correlation Coil and Arduino Board Instructions: https://www.youtube.
 
 <b>Works Cited:</b>
 
+ Chiao, R. various papers on gravitational poynting vector. 
+		-  (2002) Superconductors as quantum transducers and antennas for gravitational and 			electromagnetic radiation 
+		- Gravitational Ahronov Bohm Effect and its Connection to Parametric Oscillators and 			Gravitational Radiation (2013)
+		- Dynamical Casimir Effect and the Possibility of laser-like generation of Gravitational 			Radiation (2017)
+
+Fickler, R., Lapkiewicz, R., Plick, W.N., Krenn, M., Schaeff, C., Ramelow, S. and Zeilinger, A. (2012) Quantum Entanglement of High Angular Momenta. Science, 338, 640-643. http://dx.doi.org/10.1126/science.1227193
+
+Hu, H. & Wu. M. (2006) Evidence of Non-local Chemical, Thermal and Gravitational Effects . http://cogprints.org/5613, http://arxiv.org/ags/quant-ph/0208068v4, NeruoQuantology, 2006; 4: 2901-306.
+
 S. A. Koren, M. A. Persinger (2002) Possible Disruption of Remote Viewing by Complex Weak Magnetic Fields around the Stimulus Site and the Possibility of Accessing Real Phase Space: A Pilot Study
 First Published December 1, 2002 Research Article Find in PubMed
 https://doi.org/10.2466/pms.2002.95.3.989
@@ -86,6 +95,10 @@ Association of Unconventional Science, 2017
 
 Kernbach, Serge (2018) Replication experiment on distant influence on biological organisms conducted in 1986, IJUS, Issue E2, pages 41-46, 2018 http://www.unconv-science.org/pdf/e2/kernbach2-en.pdf
 
+ Kernbach, S. (2016) On metrology of systems operating with ‘high-penetrating’ emmision IJUS E1
+ 
+ Kernbach, S. Distant Monitoring of Entangled Macro-Objects NeuroQuantology | March 2019| Volume 17 | Issue 03 | Page 19-42| doi: 10.14704/nq.2019.17.03.1977
+
 
 Murugan, N., Karbowski, L. Dotta, B., Persinger, M. (2015) Delayed Shifts in pH Responses to Weak Acids in Spring Water Exposed to Circular Rotating Magnetic Fields: A Narrow Band Intensity-Dependence
 January 2015International Research Journal of Pure and Applied Chemistry 5(2):131-139
@@ -96,3 +109,20 @@ September 2015 https://www.researchgate.net/publication/282661047_Experimental_P
 see video presentation at Consciousness Hacking: https://www.youtube.com/watch?v=L5I3wOyo-rg
 
 Komal Saxena, Pushpendra Singh, Pathik Sahoo, Satyajit Sahu, Subrata Ghosh, Kanad Ray, Daisuke Fujita, Anirban Bandyopadhyay. Fractal, Scale Free Electromagnetic Resonance of a Single Brain Extracted Microtubule Nanowire, a Single Tubulin Protein and a Single Neuron. Fractal and Fractional. 4 [2] (2020) https://doi.org/10.3390/fractalfract4020011
+
+
+Persinger Group Direct Experiments
+
+    • Dotta, B.T. and Persinger, M.A. (2012) “Doubling” of Local Photon Emissions When Two Simultaneous, Spatially- Separated, Chemiluminescent Reactions Share the Same Magnetic Field Configurations. Journal of Biophysical Chemistry, 3, 72. http://dx.doi.org/10.4236/jbpc.2012.31009
+
+    • Dotta, B.T., Murugan, N.J., Karbowski, L.M. and Persinger, M.A. (2013) Excessive Correlated Shifts in pH within Distal Solutions Sharing Phase-Uncoupled Angular Accelerating Magnetic Fields: Macro-Entanglement and Information Transfer. International Journal of Physical Sciences, 8, 1783-1787.
+
+    • Dotta, B.T., Karbowski, L.M., Murugan, N.J. and Persinger, M.A. (2013) Incremental Shifts in pH Spring Water Can Be Stored as “Space-Memory”: Encoding and Retrieval through the Application of the Same Rotating Magnetic Field. NeuroQuantology, 11. http://dx.doi.org/10.14704/nq.2013.11.4.714
+
+    • Rouleau, N., Carniello, T.N. and Persinger, M.A. (2014) Non-Local pH Shifts and Shared Changing Angular Velocity Magnetic Fields: Discrete Energies and the Importance of Point Durations. Journal of Biophysical Chemistry. http://dx.doi.org/10.4236/jbpc.2014.52006
+
+    • Rouleau, N. and Persinger, M. (2015) Local Electromagnetic Fields Exhibit Temporally Non-Linear, East-West Oriented 1 - 5 nT Diminishments within a Toroid: Empirical Measurement and Quantitative Solutions Indicating a Potential Mechanism for Excess Correlation. Journal of Electromagnetic Analysis and Applications, 7, 19-30. http://dx.doi.org/10.4236/jemaa.2015.72003
+
+    • Scott, M.A., Rouleau, N., Lehman, B.S., Tessaro, L.W.E., Juden-Kelly, L.M. and Persinger, M.A. (2015) Experimental Production of Excess Correlation Across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II). Journal of Consciousness Research & Exploration, 6, 658-707.
+
+    • Puthoff, H. (1998) US Patent 5845220 ‘Communication Method and Apparatus with Singals Comprising Scalar and Vector Petentials without Electromagnetic Fields [Ahronov-Bohm Generator]
