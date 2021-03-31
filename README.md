@@ -82,6 +82,8 @@ NRG Excess Correlation Coil and Arduino Board Instructions: https://www.youtube.
 
 Fickler, R., Lapkiewicz, R., Plick, W.N., Krenn, M., Schaeff, C., Ramelow, S. and Zeilinger, A. (2012) Quantum Entanglement of High Angular Momenta. Science, 338, 640-643. http://dx.doi.org/10.1126/science.1227193
 
+Gosh. Subrata, Fujita, Daisuke (2014) Live Visualizations of Single Isolated tubulin Protein Self-Assembly via tunneling current: Effect of electromagnetic pumping during spontaneous groth of microtubule 
+
 Hu, H. & Wu. M. (2006) Evidence of Non-local Chemical, Thermal and Gravitational Effects . http://cogprints.org/5613, http://arxiv.org/ags/quant-ph/0208068v4, NeruoQuantology, 2006; 4: 2901-306.
 
 S. A. Koren, M. A. Persinger (2002) Possible Disruption of Remote Viewing by Complex Weak Magnetic Fields around the Stimulus Site and the Possibility of Accessing Real Phase Space: A Pilot Study
