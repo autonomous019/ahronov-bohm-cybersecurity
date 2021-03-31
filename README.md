@@ -110,6 +110,16 @@ see video presentation at Consciousness Hacking: https://www.youtube.com/watch?v
 
 Komal Saxena, Pushpendra Singh, Pathik Sahoo, Satyajit Sahu, Subrata Ghosh, Kanad Ray, Daisuke Fujita, Anirban Bandyopadhyay. Fractal, Scale Free Electromagnetic Resonance of a Single Brain Extracted Microtubule Nanowire, a Single Tubulin Protein and a Single Neuron. Fractal and Fractional. 4 [2] (2020) https://doi.org/10.3390/fractalfract4020011
 
+Norseen, J. Kropotov, J. (1999) Bio-fusion for intelligent systems control
+John D. Norseen, Juri D. Kropotov, Inna Z. Kremen
+Author Affiliations +
+Proceedings Volume 3719, Sensor Fusion: Architectures, Algorithms, and Applications III; (1999) https://doi.org/10.1117/12.341364
+Event: AeroSense '99, 1999, Orlando, FL, United States
+
+Norseen, John (1996) Images of Mind: The Semiotic Alphabet, http://www.acsa2000.net/john2.html 
+
+Norseen, John Mathematics, BioFusion and Reflexive Control for Sentient Machines, Presentation for International Reflexive Control Symposium(RC’2000) Russian Academy of Sciences – Institute for Psychology 17 – 19 October 2000     Moscow, Russia
+
 
 Persinger Group Direct Experiments
 
