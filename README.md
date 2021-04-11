@@ -1,6 +1,8 @@
 # ahronov-bohm-cybersecurity
 
 <b>Synopsis:</b>
+This work is derived from research on my Cybersecurity book: 'Battlespace of Mind: Artificial Intelligence and Information Warfare' https://github.com/autonomous019/Battlespace-of-Mind
+
 
 This project is aimed at Blue Team cybersecurity regarding the noosphere, the mind, or nouscurity, it can be applied to hardware such as embeded medical devices and wetware, such as the brain itself. It is based on the scientific neurocognitive research originating in the Soviet Military and then continued in public research in the West such as Dr. Serge Kernbach at University of Stuttgart and Dr. Michael Persinger of Laurentian University.  This research is alo within the US Military Defense industry and hence is usually classified.  
 
