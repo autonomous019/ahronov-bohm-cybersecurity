@@ -128,21 +128,20 @@ Norseen, John (1996) Images of Mind: The Semiotic Alphabet, http://www.acsa2000.
 Norseen, John Mathematics, BioFusion and Reflexive Control for Sentient Machines, Presentation for International Reflexive Control Symposium(RC’2000) Russian Academy of Sciences – Institute for Psychology 17 – 19 October 2000     Moscow, Russia
 
 
-Persinger Group Direct Experiments
 
-    • Dotta, B.T. and Persinger, M.A. (2012) “Doubling” of Local Photon Emissions When Two Simultaneous, Spatially- Separated, Chemiluminescent Reactions Share the Same Magnetic Field Configurations. Journal of Biophysical Chemistry, 3, 72. http://dx.doi.org/10.4236/jbpc.2012.31009
+    Dotta, B.T. and Persinger, M.A. (2012) “Doubling” of Local Photon Emissions When Two Simultaneous, Spatially- Separated, Chemiluminescent Reactions Share the Same Magnetic Field Configurations. Journal of Biophysical Chemistry, 3, 72. http://dx.doi.org/10.4236/jbpc.2012.31009
 
-    • Dotta, B.T., Murugan, N.J., Karbowski, L.M. and Persinger, M.A. (2013) Excessive Correlated Shifts in pH within Distal Solutions Sharing Phase-Uncoupled Angular Accelerating Magnetic Fields: Macro-Entanglement and Information Transfer. International Journal of Physical Sciences, 8, 1783-1787.
+    Dotta, B.T., Murugan, N.J., Karbowski, L.M. and Persinger, M.A. (2013) Excessive Correlated Shifts in pH within Distal Solutions Sharing Phase-Uncoupled Angular Accelerating Magnetic Fields: Macro-Entanglement and Information Transfer. International Journal of Physical Sciences, 8, 1783-1787.
 
-    • Dotta, B.T., Karbowski, L.M., Murugan, N.J. and Persinger, M.A. (2013) Incremental Shifts in pH Spring Water Can Be Stored as “Space-Memory”: Encoding and Retrieval through the Application of the Same Rotating Magnetic Field. NeuroQuantology, 11. http://dx.doi.org/10.14704/nq.2013.11.4.714
+    Dotta, B.T., Karbowski, L.M., Murugan, N.J. and Persinger, M.A. (2013) Incremental Shifts in pH Spring Water Can Be Stored as “Space-Memory”: Encoding and Retrieval through the Application of the Same Rotating Magnetic Field. NeuroQuantology, 11. http://dx.doi.org/10.14704/nq.2013.11.4.714
 
-    • Rouleau, N., Carniello, T.N. and Persinger, M.A. (2014) Non-Local pH Shifts and Shared Changing Angular Velocity Magnetic Fields: Discrete Energies and the Importance of Point Durations. Journal of Biophysical Chemistry. http://dx.doi.org/10.4236/jbpc.2014.52006
+    Rouleau, N., Carniello, T.N. and Persinger, M.A. (2014) Non-Local pH Shifts and Shared Changing Angular Velocity Magnetic Fields: Discrete Energies and the Importance of Point Durations. Journal of Biophysical Chemistry. http://dx.doi.org/10.4236/jbpc.2014.52006
 
-    • Rouleau, N. and Persinger, M. (2015) Local Electromagnetic Fields Exhibit Temporally Non-Linear, East-West Oriented 1 - 5 nT Diminishments within a Toroid: Empirical Measurement and Quantitative Solutions Indicating a Potential Mechanism for Excess Correlation. Journal of Electromagnetic Analysis and Applications, 7, 19-30. http://dx.doi.org/10.4236/jemaa.2015.72003
+    Rouleau, N. and Persinger, M. (2015) Local Electromagnetic Fields Exhibit Temporally Non-Linear, East-West Oriented 1 - 5 nT Diminishments within a Toroid: Empirical Measurement and Quantitative Solutions Indicating a Potential Mechanism for Excess Correlation. Journal of Electromagnetic Analysis and Applications, 7, 19-30. http://dx.doi.org/10.4236/jemaa.2015.72003
 
-    • Scott, M.A., Rouleau, N., Lehman, B.S., Tessaro, L.W.E., Juden-Kelly, L.M. and Persinger, M.A. (2015) Experimental Production of Excess Correlation Across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II). Journal of Consciousness Research & Exploration, 6, 658-707.
+    Scott, M.A., Rouleau, N., Lehman, B.S., Tessaro, L.W.E., Juden-Kelly, L.M. and Persinger, M.A. (2015) Experimental Production of Excess Correlation Across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II). Journal of Consciousness Research & Exploration, 6, 658-707.
 
-    • Puthoff, H. (1998) US Patent 5845220 ‘Communication Method and Apparatus with Singals Comprising Scalar and Vector Petentials without Electromagnetic Fields [Ahronov-Bohm Generator]
+    Puthoff, H. (1998) US Patent 5845220 ‘Communication Method and Apparatus with Singals Comprising Scalar and Vector Petentials without Electromagnetic Fields [Ahronov-Bohm Generator]
 
 
 Verma, R., et al (2019) Neuroimaging Findings in US Government Personnel With Possible Exposure to Directional Phenomena in Havana, CubaJAMA. 2019;322(4):336-347. doi:10.1001/jama.2019.9269
