@@ -1,5 +1,8 @@
 # ahronov-bohm-cybersecurity
 
+<h3>Scientific Theory behind the project is available at this link: <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Are Changing Angular Velocity Magnetic Fields a Countermeasure to Havana Syndrome and other Pulsed Modulated Frequency Cyberattacks?</a></h3>
+By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@protonmail.com)
+
 <b>Synopsis:</b>
 This work is derived from research on my Cybersecurity book: 'Battlespace of Mind: Artificial Intelligence and Information Warfare' https://github.com/autonomous019/Battlespace-of-Mind
 
@@ -65,8 +68,7 @@ NRG Excess Correlation Coil and Arduino Board Instructions: https://www.youtube.
 
 
 
-<a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Are Changing Angular Velocity Magnetic Fields a Countermeasure to Havana Syndrome and other Pulsed Modulated Frequency Cyberattacks?</a>
-By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@protonmail.com)
+
 
 
 
