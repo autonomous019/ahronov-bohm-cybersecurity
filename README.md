@@ -31,9 +31,10 @@ Therefore, based on western academic research (Persinger et al), countermeasures
 
 
 
-<b>Coil Construction and Arduino Board Setup</b>
- <img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/ab-coil.png?raw=true" width="250"> 
+<b>Coil Construction and Arduino Board Setup</b><p>
+ <img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/ab-coil.png?raw=true" width="400"> 
 
+<P>
 Parts list:
 1. Arduino Uno Board, plus necessary connectors (purchase a starter kit online) 
 2. a 10" Embroider Hoop (remove all metal)
