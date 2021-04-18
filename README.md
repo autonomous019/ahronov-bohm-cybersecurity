@@ -53,6 +53,10 @@ Step 1: Make a Coil, see NRG Deep Correlation Video: https://www.youtube.com/wat
 Step 2: Wire up the Arduino and Breadboard 
 place the breadboard in front of you, and the Arduino board above the Breadboard with the power connector (connects to laptop usb) to the left. (see video https://www.youtube.com/watch?v=iRq9ksZmrQc&t=3s )
 
+ <img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/arduino%20controller.png?raw=true" width="400"> 
+
+
+
 1. connect LED to pin 21 and 22
 2. on the Arduino Uno out pin 9 to pin 21 infront right leg of LED. Connet gound pin 9 to Breadboard - negative base. 
 3. Take 1K Ohm Resistor and connect to pin 22 inf front of LED short leg, connect resistor out to pin 20 in front of 120 TIP V regulator.
