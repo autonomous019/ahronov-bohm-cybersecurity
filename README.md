@@ -9,7 +9,7 @@ By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@
 
 <h3>Cyber Security Threat and Countermeasure Synopsis:</h3>
 
-This work is derived from research on my Cybersecurity book: 'Battlespace of Mind: Artificial Intelligence and Information Warfare' https://github.com/autonomous019/Battlespace-of-Mind
+This work is derived from research on my Cybersecurity book: 'Battlespace of Mind: AI and Cybernetics in Information Warfare' https://github.com/autonomous019/Battlespace-of-Mind
 
 
 This project is aimed at Blue Team cybersecurity regarding the noosphere, the mind, or nouscurity, it can be applied to hardware such as embeded medical devices and wetware, such as the brain itself. It is based on the scientific neurocognitive research originating in the Soviet Military and then continued in public research in the West such as Dr. Serge Kernbach at University of Stuttgart and Dr. Michael Persinger of Laurentian University.  This research is alo within the US Military Defense industry and hence is usually classified.  This countermeasure is inspired by Persinger (2002) where discussion of countering remote viewing is reviewed. 
@@ -130,7 +130,7 @@ Dotta, B.T., Murugan, N.J., Karbowski, L.M. and Persinger, M.A. (2013) Excessive
 
 Dotta, B.T., Karbowski, L.M., Murugan, N.J. and Persinger, M.A. (2013) Incremental Shifts in pH Spring Water Can Be Stored as “Space-Memory”: Encoding and Retrieval through the Application of the Same Rotating Magnetic Field. NeuroQuantology, 11. http://dx.doi.org/10.14704/nq.2013.11.4.714
 
-McCarron (2021) 'Battlespace of Mind: Artificial Intelligence and Information Warfare' https://github.com/autonomous019/Battlespace-of-Mind
+McCarron (2021) 'Battlespace of Mind: AI and Cybernetics in Information Warfare' https://github.com/autonomous019/Battlespace-of-Mind
 
 
 Rouleau, N., Carniello, T.N. and Persinger, M.A. (2014) Non-Local pH Shifts and Shared Changing Angular Velocity Magnetic Fields: Discrete Energies and the Importance of Point Durations. Journal of Biophysical Chemistry. http://dx.doi.org/10.4236/jbpc.2014.52006
