@@ -12,7 +12,7 @@ By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@
 This work is derived from research on my Cybersecurity book: 'Battlespace of Mind: Artificial Intelligence and Information Warfare' https://github.com/autonomous019/Battlespace-of-Mind
 
 
-This project is aimed at Blue Team cybersecurity regarding the noosphere, the mind, or nouscurity, it can be applied to hardware such as embeded medical devices and wetware, such as the brain itself. It is based on the scientific neurocognitive research originating in the Soviet Military and then continued in public research in the West such as Dr. Serge Kernbach at University of Stuttgart and Dr. Michael Persinger of Laurentian University.  This research is alo within the US Military Defense industry and hence is usually classified.  
+This project is aimed at Blue Team cybersecurity regarding the noosphere, the mind, or nouscurity, it can be applied to hardware such as embeded medical devices and wetware, such as the brain itself. It is based on the scientific neurocognitive research originating in the Soviet Military and then continued in public research in the West such as Dr. Serge Kernbach at University of Stuttgart and Dr. Michael Persinger of Laurentian University.  This research is alo within the US Military Defense industry and hence is usually classified.  This countermeasure is inspired by Persinger (2002) where discussion of countering remote viewing is reviewed. 
 
 It is based on the utilization of the Ahronov-Bohm effect, creating a potential energy shield to guard against cyberbased attacks on hardware and software. It protects the user from invasive electro-magnetic frequencies, effectively scrambling them before reaching the target vector, for instance the Microtubules of the Neurons in the Brain.   
 
@@ -129,6 +129,9 @@ Dotta, B.T. and Persinger, M.A. (2012) “Doubling” of Local Photon Emissions 
 Dotta, B.T., Murugan, N.J., Karbowski, L.M. and Persinger, M.A. (2013) Excessive Correlated Shifts in pH within Distal Solutions Sharing Phase-Uncoupled Angular Accelerating Magnetic Fields: Macro-Entanglement and Information Transfer. International Journal of Physical Sciences, 8, 1783-1787.
 
 Dotta, B.T., Karbowski, L.M., Murugan, N.J. and Persinger, M.A. (2013) Incremental Shifts in pH Spring Water Can Be Stored as “Space-Memory”: Encoding and Retrieval through the Application of the Same Rotating Magnetic Field. NeuroQuantology, 11. http://dx.doi.org/10.14704/nq.2013.11.4.714
+
+McCarron (2021) 'Battlespace of Mind: Artificial Intelligence and Information Warfare' https://github.com/autonomous019/Battlespace-of-Mind
+
 
 Rouleau, N., Carniello, T.N. and Persinger, M.A. (2014) Non-Local pH Shifts and Shared Changing Angular Velocity Magnetic Fields: Discrete Energies and the Importance of Point Durations. Journal of Biophysical Chemistry. http://dx.doi.org/10.4236/jbpc.2014.52006
 
