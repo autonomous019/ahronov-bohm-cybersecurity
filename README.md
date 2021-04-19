@@ -89,17 +89,7 @@ NRG Excess Correlation Coil and Arduino Board Instructions: https://www.youtube.
 
 <b>Works Cited:</b>
 
- Chiao, R. various papers on gravitational poynting vector. 
-		-  (2002) Superconductors as quantum transducers and antennas for gravitational and 			electromagnetic radiation 
-		- Gravitational Ahronov Bohm Effect and its Connection to Parametric Oscillators and 			Gravitational Radiation (2013)
-		- Dynamical Casimir Effect and the Possibility of laser-like generation of Gravitational 			Radiation (2017)
-
-Fickler, R., Lapkiewicz, R., Plick, W.N., Krenn, M., Schaeff, C., Ramelow, S. and Zeilinger, A. (2012) Quantum Entanglement of High Angular Momenta. Science, 338, 640-643. http://dx.doi.org/10.1126/science.1227193
-
-Gosh. Subrata, Fujita, Daisuke (2014) Live Visualizations of Single Isolated tubulin Protein Self-Assembly via tunneling current: Effect of electromagnetic pumping during spontaneous groth of microtubule 
-
-Hu, H. & Wu. M. (2006) Evidence of Non-local Chemical, Thermal and Gravitational Effects . http://cogprints.org/5613, http://arxiv.org/ags/quant-ph/0208068v4, NeruoQuantology, 2006; 4: 2901-306.
-
+ 
 S. A. Koren, M. A. Persinger (2002) Possible Disruption of Remote Viewing by Complex Weak Magnetic Fields around the Stimulus Site and the Possibility of Accessing Real Phase Space: A Pilot Study
 First Published December 1, 2002 Research Article Find in PubMed
 https://doi.org/10.2466/pms.2002.95.3.989
@@ -111,9 +101,9 @@ Association of Unconventional Science, 2017
 
 Kernbach, Serge (2018) Replication experiment on distant influence on biological organisms conducted in 1986, IJUS, Issue E2, pages 41-46, 2018 http://www.unconv-science.org/pdf/e2/kernbach2-en.pdf
 
- Kernbach, S. (2016) On metrology of systems operating with ‘high-penetrating’ emmision IJUS E1
+Kernbach, S. (2016) On metrology of systems operating with ‘high-penetrating’ emmision IJUS E1
  
- Kernbach, S. Distant Monitoring of Entangled Macro-Objects NeuroQuantology | March 2019| Volume 17 | Issue 03 | Page 19-42| doi: 10.14704/nq.2019.17.03.1977
+Kernbach, S. Distant Monitoring of Entangled Macro-Objects NeuroQuantology | March 2019| Volume 17 | Issue 03 | Page 19-42| doi: 10.14704/nq.2019.17.03.1977
 
 
 Murugan, N., Karbowski, L. Dotta, B., Persinger, M. (2015) Delayed Shifts in pH Responses to Weak Acids in Spring Water Exposed to Circular Rotating Magnetic Fields: A Narrow Band Intensity-Dependence
@@ -123,8 +113,6 @@ DOI: 10.9734/IRJPAC/2015/13156 https://www.researchgate.net/publication/28262453
 Lehman, B., Scott, M. Rouleau, N., Tessaro, L. (2015) Experimental Production of Excess Correlation across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power Between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II)
 September 2015 https://www.researchgate.net/publication/282661047_Experimental_Production_of_Excess_Correlation_across_the_Atlantic_Ocean_of_Right_Hemispheric_Theta-Gamma_Power_Between_Subject_Pairs_Sharing_Circumcerebral_Rotating_Magnetic_Fields_Part_II
 see video presentation at Consciousness Hacking: https://www.youtube.com/watch?v=L5I3wOyo-rg
-
-Komal Saxena, Pushpendra Singh, Pathik Sahoo, Satyajit Sahu, Subrata Ghosh, Kanad Ray, Daisuke Fujita, Anirban Bandyopadhyay. Fractal, Scale Free Electromagnetic Resonance of a Single Brain Extracted Microtubule Nanowire, a Single Tubulin Protein and a Single Neuron. Fractal and Fractional. 4 [2] (2020) https://doi.org/10.3390/fractalfract4020011
 
 Norseen, J. Kropotov, J. (1999) Bio-fusion for intelligent systems control
 John D. Norseen, Juri D. Kropotov, Inna Z. Kremen
@@ -144,7 +132,7 @@ Dotta, B.T., Karbowski, L.M., Murugan, N.J. and Persinger, M.A. (2013) Increment
 
 Rouleau, N., Carniello, T.N. and Persinger, M.A. (2014) Non-Local pH Shifts and Shared Changing Angular Velocity Magnetic Fields: Discrete Energies and the Importance of Point Durations. Journal of Biophysical Chemistry. http://dx.doi.org/10.4236/jbpc.2014.52006
 
-Rouleau, N. and Persinger, M. (2015) Local Electromagnetic Fields Exhibit Temporally Non-Linear, East-West Oriented 1 - 5 nT Diminishments within a Toroid: Empirical Measurement and Quantitative Solutions Indicating a Potential Mechanism for Excess Correlation. Journal of Electromagnetic Analysis and Applications, 7, 19-30. http://dx.doi.org/10.4236/jemaa.2015.72003
+Rouleau, N. and Persinger, M. (2015b) Local Electromagnetic Fields Exhibit Temporally Non-Linear, East-West Oriented 1 - 5 nT Diminishments within a Toroid: Empirical Measurement and Quantitative Solutions Indicating a Potential Mechanism for Excess Correlation. Journal of Electromagnetic Analysis and Applications, 7, 19-30. http://dx.doi.org/10.4236/jemaa.2015.72003
 
 Scott, M.A., Rouleau, N., Lehman, B.S., Tessaro, L.W.E., Juden-Kelly, L.M. and Persinger, M.A. (2015) Experimental Production of Excess Correlation Across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II). Journal of Consciousness Research & Exploration, 6, 658-707.
 
