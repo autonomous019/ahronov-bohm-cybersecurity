@@ -30,7 +30,7 @@ The scientific literature on the weaponization for the purposes of cyber attack 
     
     
     
-Therefore, based on western academic research (Persinger et al; Kernbach et al), countermeasures are needed to counter such a threat.  No weapons is ever developed that the engineers do not also have their own countermeasures for.  The research into the A-B tech used by the Soviets by Hal Puthoff, formerly of Stanford Research Institute, reversed engineered the Akimov Generators.  The work of Persinger et al, expanded on this reverse engineering, ultimately showing that the coils from the Puthoff Generator were all that was necessary for experiments documenting their ability to use angular momentum for entanglement as well as create a masking field to counter remote influencing (Persinger, Roll et al 2002).  This particular countermeasure is valid for the interference with remote waves, that is non-local field waves from a remote source, not in the local field where optical or sonic devices could be used as an attack vector (red team) on the visual cortex through the cavity resonators in the retinas.  The production of the coils is given below.  Persinger et al and Kernbach et al have provided detailed information on how to construct A-B generators, the coils used in this experiment are from Lehman et al (2015).  See '<a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Are Changing Angular Velocity Magnetic Fields a Countermeasure to Havana Syndrome and other Pulsed Modulated Frequency Cyberattacks?</a> for a deeper explanation to the A-B effect, Angular Momentum and Deep Correlations. 
+Therefore, based on western academic research (Persinger et al; Kernbach et al), countermeasures are needed to counter such a threat.  No weapons is ever developed that the engineers do not also have their own countermeasures for.  The research into the A-B tech used by the Soviets by Hal Puthoff, formerly of Stanford Research Institute, reversed engineered the Akimov Generators.  The work of Persinger et al, expanded on this reverse engineering, ultimately showing that the coils from the Puthoff Generator were all that was necessary for experiments documenting their ability to use angular momentum for entanglement as well as create a masking field to counter remote influencing (Koren and Persinger 2002).  This particular countermeasure is valid for the interference with remote waves, that is non-local field waves from a remote source, not in the local field where optical or sonic devices could be used as an attack vector (red team) on the visual cortex through the cavity resonators in the retinas.  The production of the coils is given below.  Persinger et al and Kernbach et al have provided detailed information on how to construct A-B generators, the coils used in this experiment are from Lehman et al (2015).  See '<a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Are Changing Angular Velocity Magnetic Fields a Countermeasure to Havana Syndrome and other Pulsed Modulated Frequency Cyberattacks?</a> for a deeper explanation to the A-B effect, Angular Momentum and Deep Correlations. 
 
 
 
@@ -89,11 +89,13 @@ NRG Excess Correlation Coil and Arduino Board Instructions: https://www.youtube.
 
 <b>Works Cited:</b>
 
- 
-S. A. Koren, M. A. Persinger (2002) Possible Disruption of Remote Viewing by Complex Weak Magnetic Fields around the Stimulus Site and the Possibility of Accessing Real Phase Space: A Pilot Study
-First Published December 1, 2002 Research Article Find in PubMed
-https://doi.org/10.2466/pms.2002.95.3.989
+Dotta, B.T. and Persinger, M.A. (2012) “Doubling” of Local Photon Emissions When Two Simultaneous, Spatially- Separated, Chemiluminescent Reactions Share the Same Magnetic Field Configurations. Journal of Biophysical Chemistry, 3, 72. http://dx.doi.org/10.4236/jbpc.2012.31009
 
+Dotta, B.T., Murugan, N.J., Karbowski, L.M. and Persinger, M.A. (2013) Excessive Correlated Shifts in pH within Distal Solutions Sharing Phase-Uncoupled Angular Accelerating Magnetic Fields: Macro-Entanglement and Information Transfer. International Journal of Physical Sciences, 8, 1783-1787.
+
+Dotta, B.T., Karbowski, L.M., Murugan, N.J. and Persinger, M.A. (2013) Incremental Shifts in pH Spring Water Can Be Stored as “Space-Memory”: Encoding and Retrieval through the Application of the Same Rotating Magnetic Field. NeuroQuantology, 11. http://dx.doi.org/10.14704/nq.2013.11.4.714
+
+ 
 Kernbach, Serge (2017) Tests of the circular Poynting vector emitter in static E/H fields
 International Journal of Unconventional Science
 Issue E2, pp. 23-40, 2017 http://www.unconv-science.org/e2/kernbach1
@@ -105,14 +107,18 @@ Kernbach, S. (2016) On metrology of systems operating with ‘high-penetrating�
  
 Kernbach, S. Distant Monitoring of Entangled Macro-Objects NeuroQuantology | March 2019| Volume 17 | Issue 03 | Page 19-42| doi: 10.14704/nq.2019.17.03.1977
 
+Koren, S. Persinger, M. (2002) Possible Disruption of Remote Viewing by Complex Weak Magnetic Fields around the Stimulus Site and the Possibility of Accessing Real Phase Space: A Pilot Study
+First Published December 1, 2002 Research Article Find in PubMed
+https://doi.org/10.2466/pms.2002.95.3.989
 
-Murugan, N., Karbowski, L. Dotta, B., Persinger, M. (2015) Delayed Shifts in pH Responses to Weak Acids in Spring Water Exposed to Circular Rotating Magnetic Fields: A Narrow Band Intensity-Dependence
-January 2015International Research Journal of Pure and Applied Chemistry 5(2):131-139
-DOI: 10.9734/IRJPAC/2015/13156 https://www.researchgate.net/publication/282624530_Delayed_Shifts_in_pH_Responses_to_Weak_Acids_in_Spring_Water_Exposed_to_Circular_Rotating_Magnetic_Fields_A_Narrow_Band_Intensity-Dependence
 
 Lehman, B., Scott, M. Rouleau, N., Tessaro, L. (2015) Experimental Production of Excess Correlation across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power Between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II)
 September 2015 https://www.researchgate.net/publication/282661047_Experimental_Production_of_Excess_Correlation_across_the_Atlantic_Ocean_of_Right_Hemispheric_Theta-Gamma_Power_Between_Subject_Pairs_Sharing_Circumcerebral_Rotating_Magnetic_Fields_Part_II
 see video presentation at Consciousness Hacking: https://www.youtube.com/watch?v=L5I3wOyo-rg
+
+Krishnan, A. (2017) Military Neuroscience and the Coming Age of Neurowarfare (Emerging Technologies, Ethics and International Affairs)
+
+McCarron (2021) 'Battlespace of Mind: AI and Cybernetics in Information Warfare' https://github.com/autonomous019/Battlespace-of-Mind
 
 Norseen, J. Kropotov, J. (1999) Bio-fusion for intelligent systems control
 John D. Norseen, Juri D. Kropotov, Inna Z. Kremen
@@ -123,14 +129,6 @@ Event: AeroSense '99, 1999, Orlando, FL, United States
 Norseen, John (1996) Images of Mind: The Semiotic Alphabet, http://www.acsa2000.net/john2.html 
 
 Norseen, John Mathematics, BioFusion and Reflexive Control for Sentient Machines, Presentation for International Reflexive Control Symposium(RC’2000) Russian Academy of Sciences – Institute for Psychology 17 – 19 October 2000     Moscow, Russia
-
-Dotta, B.T. and Persinger, M.A. (2012) “Doubling” of Local Photon Emissions When Two Simultaneous, Spatially- Separated, Chemiluminescent Reactions Share the Same Magnetic Field Configurations. Journal of Biophysical Chemistry, 3, 72. http://dx.doi.org/10.4236/jbpc.2012.31009
-
-Dotta, B.T., Murugan, N.J., Karbowski, L.M. and Persinger, M.A. (2013) Excessive Correlated Shifts in pH within Distal Solutions Sharing Phase-Uncoupled Angular Accelerating Magnetic Fields: Macro-Entanglement and Information Transfer. International Journal of Physical Sciences, 8, 1783-1787.
-
-Dotta, B.T., Karbowski, L.M., Murugan, N.J. and Persinger, M.A. (2013) Incremental Shifts in pH Spring Water Can Be Stored as “Space-Memory”: Encoding and Retrieval through the Application of the Same Rotating Magnetic Field. NeuroQuantology, 11. http://dx.doi.org/10.14704/nq.2013.11.4.714
-
-McCarron (2021) 'Battlespace of Mind: AI and Cybernetics in Information Warfare' https://github.com/autonomous019/Battlespace-of-Mind
 
 
 Rouleau, N., Carniello, T.N. and Persinger, M.A. (2014) Non-Local pH Shifts and Shared Changing Angular Velocity Magnetic Fields: Discrete Energies and the Importance of Point Durations. Journal of Biophysical Chemistry. http://dx.doi.org/10.4236/jbpc.2014.52006
