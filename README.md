@@ -16,7 +16,7 @@ This project is aimed at Blue Team cybersecurity regarding the noosphere, the mi
 
 It is based on the utilization of the Ahronov-Bohm effect, creating a potential energy shield to guard against cyberbased attacks on hardware and software. It protects the user from invasive electro-magnetic frequencies, effectively scrambling them before reaching the target vector, for instance the Microtubules of the Neurons in the Brain.   
 
-The code file is a Arduino Sketch file designed for use with the Ahronov-Bohm coil a piece of the Ahronov-Bohm generator created by Dr. Hal Puthoff. It generates totally random frequencies.  I prefer the <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/accelerate_frequency_driver.ino">accelerate_frequency_driver.ino</a> it sets 4 random frequencies (salts) before a repeating pattern of accelerating EM waves forms.
+The code file is a Arduino Sketch file designed for use with the Ahronov-Bohm coil a piece of the Ahronov-Bohm generator created by Dr. Hal Puthoff. It generates totally random frequencies.  I prefer the <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/accelerate_frequency_driver.ino">accelerate_frequency_driver.ino</a> it sets 4 random frequencies (salts) before a repeating pattern of accelerating EM waves forms. The salt is intended to create an unguessable pattern to the frequencies otherwise anyone with a coil with the same patterns could be used as an attack vector. 
 
 <b>Threat Analysis:</b>
 
