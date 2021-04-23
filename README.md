@@ -40,17 +40,18 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
 
 <P>
  <b>Parts list:</b>
- <li>Arduino Uno Bo</li>ard, plus necessary connectors (purchase a starter kit online)</li> 
-<li>a 10" Embroider Hoop</li> (remove all metal)</li>
+ <li>Arduino Uno Board, plus necessary connectors (purchase a starter kit online)</li> 
+<li>a 10" Embroider Hoop (remove all metal)</li>
 <li>Electric Tape</li>
 <li>Laptop</li>
-<li>Single strand 16 gauge speaker wire (low impedance we a </li>re dealing with nano Te</li>sla here) </li>
-<li>Arduino Breadboard</li></li>
+<li>Single strand 16 gauge speaker wire (low impedance we a re dealing with nano Te</li>sla here) </li>
+<li>Arduino Breadboard</li>
 <li>1K Ohm Resistor</li>
-<li>TIP120</li> to 220 Voltage Regulator</li>
+<li>TIP120< to 220 Voltage Regulator</li>
 <li> Diode</li>
 <Li>Blue LED (470nm Wavelength)</li> 
 
+<B>Make:</b>
 
 Step 1: Make a Coil, see NRG Deep Correlation Video: https://www.youtube.com/watch?v=ygCqykp6tC4&t=5s
 
