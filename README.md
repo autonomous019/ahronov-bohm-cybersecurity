@@ -39,17 +39,17 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
  <img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/ab-coil.png?raw=true" width="400"> 
 
 <P>
-Parts list:
-1. Arduino Uno Board, plus necessary connectors (purchase a starter kit online) 
-2. a 10" Embroider Hoop (remove all metal)
-3. Electric Tape
-4. Laptop
-5. Single strand 16 gauge speaker wire (low impedance we are dealing with nano Tesla here)
-6. Arduino Breadboard
-7. 1K Ohm Resistor
-8. TIP120 to 220 Voltage Regulator
-9. Diode
-10. Blue LED (470nm Wavelength) 
+ <b>Parts list:</b>
+ <li>Arduino Uno Bo</li>ard, plus necessary connectors (purchase a starter kit online)</li> 
+<li>a 10" Embroider Hoop</li> (remove all metal)</li>
+<li>Electric Tape</li>
+<li>Laptop</li>
+<li>Single strand 16 gauge speaker wire (low impedance we a </li>re dealing with nano Te</li>sla here) </li>
+<li>Arduino Breadboard</li></li>
+<li>1K Ohm Resistor</li>
+<li>TIP120</li> to 220 Voltage Regulator</li>
+<li> Diode</li>
+<Li>Blue LED (470nm Wavelength)</li> 
 
 
 Step 1: Make a Coil, see NRG Deep Correlation Video: https://www.youtube.com/watch?v=ygCqykp6tC4&t=5s
