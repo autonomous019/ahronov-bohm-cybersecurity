@@ -91,6 +91,7 @@ NRG Excess Correlation Coil and Arduino Board Instructions: https://www.youtube.
 
 
 <b>Works Cited:</b>
+
 Arms Control Association (2018) Arms Control and Proliferation Profile: Israel https://www.armscontrol.org/factsheets/israelprofile
 
 Dotta, B.T. and Persinger, M.A. (2012) “Doubling” of Local Photon Emissions When Two Simultaneous, Spatially- Separated, Chemiluminescent Reactions Share the Same Magnetic Field Configurations. Journal of Biophysical Chemistry, 3, 72. http://dx.doi.org/10.4236/jbpc.2012.31009
