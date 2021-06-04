@@ -42,7 +42,7 @@ int random_key_4 = random_delay_time(6,30);
 
 
 //set either an ascending or descending rhythm (phase) here
-int phaser = phase_former(24,3);
+
 int phaser_a = phase_former(24,3);
 int phaser_b = phase_former(22,3);
 int phaser_c = phase_former(20,3);
@@ -58,7 +58,6 @@ int phaser_k = phase_former(6,3);
 }// ends loop()
 
 
-/* MY GENIUS FUNCTIONS KNOW ONE ESLE COULD EVER COME UP WITH BECAUSE I"M JESUS CHRIST LORD OF THE UNIVERSE */
 int phase_former(int delay_time, int point_duration) {
   int v = 0;
   digitalWrite(9,HIGH);
