@@ -3,6 +3,8 @@
  <h3> <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Are Changing Angular Velocity Magnetic Fields a Countermeasure to Havana Syndrome and other Pulsed Modulated Frequency Cyberattacks?</a></h3>
 By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@protonmail.com)
 
+
+
 <b>Abstract:</b> The following is a review of studies related to Ahronov-Bohm (A-B) Generators known in the Soviet Union as Akimov Generators.  I argue that Soviet military-industrial technology is the cause of Havana Syndrome.  I take the results of Verma et al (2019) fMRI measurements of white and grey brain matter and compare them to the findings of Kernbach and Persinger et al studies on A-B Generators and their effects on the human brain using sLORETA, and QEEG measurements, with particular attention to Rouleau (2015b) measurement of non-local Harribance configuration impact on grey matter. I argue the brain areas affected by A-B based weapons correlate between the two approaches to show a quantifiable evidence of extrinsic attack on the biology of targets, that specific brain areas are involved and can be used to profile such an A-B exploit. 
 <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Read Paper</a>
 
