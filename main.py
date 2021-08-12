@@ -1,10 +1,36 @@
 import serial
-import csv
 import time
+import matplotlib.pyplot as plt
 
 ser = serial.Serial('COM8', 9600) #Arduino board port is com8
-print(ser)
+#print(ser)
 ser_bytes = ser.readline()
+
+
+# Read and record the data
+data =[]                       # empty list to store the data
+for i in range(50):
+    b = ser.readline()         # read a byte string
+    string_n = b.decode()  # decode byte string into Unicode
+    string = string_n.rstrip() # remove \n and \r
+    flt = float(string)        # convert string to float
+    print(flt)
+    data.append(flt)           # add to the end of data list
+    time.sleep(0.1)            # wait (sleep) 0.1 seconds
+
+ser.close()
+
+# show the data
+
+for line in data:
+    print(line)
+
+
+plt.plot(data)
+plt.xlabel('Time (seconds)')
+plt.ylabel('Potentiometer Reading')
+plt.title('Potentiometer Reading vs. Time')
+plt.show()
 
 #ser.flushInput()
 
@@ -14,15 +40,6 @@ while True:
         decoded_bytes = float(ser_bytes[0:len(ser_bytes)-2].decode("utf-8"))
         print(decoded_bytes)
 
-        #with open('test_data.csv', 'w', newline='') as csvfile:
-        #   fieldnames = ['first_name', 'last_name']
-        #    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        #    writer = csv.writer(csvfile, delimiter=",")
-        #    writer.writerow([time.time(), decoded_bytes])
-
-        #with open("test_data.csv", "a") as f:
-        #    writer = csv.writer(f, delimiter=",")
-        #    writer.writerow([time.time(), decoded_bytes])
     except:
         print("Keyboard Interrupt")
         break
