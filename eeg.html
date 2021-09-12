@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+ 
+<script src="data_wrangler.js"></script>    
+<script src="js/chart3.min.js"></script>
+<script src="js/hammerjs.js"></script>
+<script src="js/chartjs-plugin-zoom.min.js"></script>
+
+    
+<body>
+
+   
+    
+<canvas id="canvas" style="width:100%;">    </canvas>
+
+    
+  
+    
+<script>
+
+ 
+    var randomScalingFactor = function() {
+			return (Math.random() > 0.5 ? 1.0 : -1.0) * Math.round(Math.random() * 100);
+		};
+		var randomColor = function(opacity) {
+			return 'rgba(' + Math.round(Math.random() * 255) + ',' + Math.round(Math.random() * 255) + ',' + Math.round(Math.random() * 255) + ',' + (opacity || '.3') + ')';
+		};
+
+    
+new Chart("canvas", {
+  type: "line",
+  data: {
+    
+    labels: time_markers,
+    datasets: [
+            {
+                label: "AF3",
+                borderColor: "rgb(220,220,220)",
+                backgroundColor:"rgb(220,220,220,0.1)",
+                fillColor: "rgba(220,220,220,0.2)",
+                strokeColor: "rgba(220,220,220,1)",
+                pointColor: "rgba(220,220,220,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(220,220,220,1)",
+                data: AF3
+            },
+            {
+                label: "AF4",
+                borderColor: "rgb(151,187,205)",
+                backgroundColor:"rgb(151,187,205,0.1)",
+                fillColor: "rgba(151,187,205,0.2)",
+                strokeColor: "rgba(151,187,205,1)",
+                pointColor: "rgba(151,187,205,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: AF4
+            },
+         {
+                label: "F3",
+                borderColor: "rgb(100,187,205)",
+                backgroundColor:"rgb(100,187,205,0.1)",
+                fillColor: "rgba(100,187,205,0.2)",
+                strokeColor: "rgba(100,187,205,1)",
+                pointColor: "rgba(100,187,205,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: F3
+            },
+         {
+                label: "F4",
+                borderColor: "rgb(151,100,205)",
+                backgroundColor:"rgb(151,100,205,0.1)",
+                fillColor: "rgba(151,100,205,0.2)",
+                strokeColor: "rgba(151,100,205,1)",
+                pointColor: "rgba(151,100,205,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: F4
+            },
+         {
+                label: "F7",
+                borderColor: "rgb(151,187,100)",
+                backgroundColor:"rgb(151,187,100,0.1)",
+                fillColor: "rgba(151,187,100,0.2)",
+                strokeColor: "rgba(151,187,100,1)",
+                pointColor: "rgba(151,187,100,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: F7
+            },
+         {
+                label: "F8",
+                borderColor: "rgb(020,187,205)",
+                backgroundColor:"rgb(020,187,205,0.1)",
+                fillColor: "rgba(020,187,205,0.2)",
+                strokeColor: "rgba(020,187,205,1)",
+                pointColor: "rgba(020,187,205,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: F8
+            },
+         {
+                label: "FC5",
+                borderColor: "rgb(151,050,205)",
+                backgroundColor:"rgb(151,050,205,0.1)",
+                fillColor: "rgba(151,050,205,0.2)",
+                strokeColor: "rgba(151,050,205,1)",
+                pointColor: "rgba(151,050,205,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: FC5
+            },
+         {
+                label: "FC6",
+                borderColor: "rgb(151,187,250)",
+                backgroundColor:"rgb(151,187,250,0.1)",
+                fillColor: "rgba(151,187,250,0.2)",
+                strokeColor: "rgba(151,187,250,1)",
+                pointColor: "rgba(151,187,250,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: FC6
+            },
+         {
+                label: "O1",
+                borderColor: "rgb(100,187,100)",
+                backgroundColor:"rgb(100,187,100,0.1)",
+                fillColor: "rgba(100,187,100,0.2)",
+                strokeColor: "rgba(100,187,100,1)",
+                pointColor: "rgba(100,187,100,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: O1
+            },
+         {
+                label: "O2",
+                borderColor: "rgb(151,299,205)",
+                backgroundColor:"rgb(151,299,205,0.1)",
+                fillColor: "rgba(151,299,205,0.2)",
+                strokeColor: "rgba(151,299,205,1)",
+                pointColor: "rgba(151,299,205,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: O2
+            },
+         {
+                label: "P7",
+                borderColor: "rgb(151,187,005)",
+                backgroundColor:"rgb(151,187,005,0.1)",
+                fillColor: "rgba(151,187,005,0.2)",
+                strokeColor: "rgba(151,187,005,1)",
+                pointColor: "rgba(151,187,005,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: P7
+            },
+         {
+                label: "P8",
+                borderColor: "rgb(266,137,205)",
+                backgroundColor:"rgb(266,137,205,0.1)",
+                fillColor: "rgba(266,137,205,0.2)",
+                strokeColor: "rgba(266,137,205,1)",
+                pointColor: "rgba(266,137,205,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: P8
+            },
+         {
+                label: "T7",
+                borderColor: "rgb(151,007,205)",
+                backgroundColor:"rgb(151,007,205,0.1)",
+                fillColor: "rgba(151,007,205,0.2)",
+                strokeColor: "rgba(151,007,205,1)",
+                pointColor: "rgba(151,007,205,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: T7
+            },
+         {
+                label: "T8",
+                borderColor: "rgb(001,087,255)",
+                backgroundColor:"rgb(001,087,255,0.1)",
+                fillColor: "rgba(001,087,255,0.2)",
+                strokeColor: "rgba(001,087,255,1)",
+                pointColor: "rgba(001,087,255,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: T8
+            }
+        ]
+  },
+  options: {
+    legend: {display: true},
+    /* scales: {
+            xAxes: [{
+                type: 'time',
+                time: {
+                    unit: 'millisecond'
+                }
+            }]
+        }, */
+      
+      plugins: {
+						zoom: {
+							pan: {
+								enabled: true,
+								mode: 'xy',
+								overScaleMode: 'y'
+							},
+							zoom: {
+								wheel: {
+									enabled: true,
+								},
+								pinch: {
+									enabled: true,
+								},
+								mode: 'xy',
+								overScaleMode: 'y'
+							}
+						}
+					},
+      
+
+					onClick: function(e) {
+						// eslint-disable-next-line no-alert
+						alert(e.type);
+					}
+
+          
+  }
+   
+    
+      
+});
+</script>
+
+</body>
+</html>
