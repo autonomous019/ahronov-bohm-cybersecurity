@@ -1,7 +1,8 @@
 # ahronov-bohm-cybersecurity
 
  <h3> <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Are Changing Angular Velocity Magnetic Fields a Countermeasure to Havana Syndrome and other Pulsed Modulated Frequency Cyberattacks?</a></h3>
-By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@protonmail.com)
+By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@protonmail.com)<br>
+[this is an outdated edition of my research, please consult Ch.9 of my work 'Battlespace of Mind' which can be downloaded at <a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing</a>
 <br><br>
 
 
