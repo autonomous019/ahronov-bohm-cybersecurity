@@ -72,9 +72,9 @@ place the breadboard in front of you, and the Arduino board above the Breadboard
 3. Take 1K Ohm Resistor and connect to pin b22 inf front of LED short leg, connect resistor out to pin f20 in front of 120 TIP V regulator.
 4. Voltage regulator, facing properly the plastic should be facing you with the metal end farthest away from you, metal hole mount to rear, place in pin g20,g19,g18
 5. Ground the regulator, grab a jumper cable short or med red one or other color as you wish. one end connect to negative rail the other end connect to right pin of voltage regulator place in j18
-6. In to coil, pin f19 in front of V regulator
+6. In to coil, pin h20 in front of center of V regulator
 7. Diode, (grey strip is out) grey end into + positive of breadboard base. In goes to pin j19 behind out to coil. (see video) 
-8. Coil out to negative on board base rail.
+8. Coil out to positive on board base rail pin 21, should be next to diode, to the left of the diode one pin location. 
     
 Step 3: open accelerate_frequency.ino into Arduino LED then upload to Arduino Board.
     
