@@ -61,7 +61,7 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
 Step 1: Make a Coil, see NRG Deep Correlation Video: https://www.youtube.com/watch?v=ygCqykp6tC4&t=5s
 
 Step 2: Wire up the Arduino and Breadboard 
-place the breadboard in front of you, and the Arduino board above the Breadboard with the power connector (connects to laptop usb) to the left. (see video https://www.youtube.com/watch?v=iRq9ksZmrQc&t=3s )
+place the breadboard in front of you make sure it is oriented correctly (see video for example), and the Arduino board above the Breadboard with the power connector (connects to laptop usb) to the left. (see video https://www.youtube.com/watch?v=iRq9ksZmrQc&t=3s )
 
  <img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/arduino%20controller.png?raw=true" width="400"> 
 
@@ -73,10 +73,10 @@ place the breadboard in front of you, and the Arduino board above the Breadboard
 4. Voltage regulator, facing properly the plastic should be facing you with the metal end farthest away from you, metal hole mount to rear, place in pin g20,g19,g18
 5. Ground the regulator, grab a jumper cable short or med red one or other color as you wish. one end connect to negative rail the other end connect to right pin of voltage regulator place in j18
 6. In to coil, pin h20 in front of center of V regulator
-7. Diode, (grey strip is out) grey end into + positive of breadboard base. In goes to pin j19 behind out to coil. (see video) 
-8. Coil out to positive on board base rail pin 21, should be next to diode, to the left of the diode one pin location. 
+7. Diode, (grey strip is out) grey end into + positive pin 20 of breadboard base. In goes to pin j19 behind out to coil. (see video) 
+8. Coil out to + positive on board base rail pin 21, should be next to diode, to the left of the diode one pin location. 
     
-Step 3: open accelerate_frequency.ino into Arduino LED then upload to Arduino Board.
+Step 3: open accelerate_frequency.ino in Arduino IDE then upload to Arduino Board.
     
 Step 4: Place coil around object to shield from remote waves. 
 
