@@ -56,8 +56,9 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
 <li> Diode</li>
 <Li>Blue LED (470nm Wavelength)</li> 
 
+<hr>
 <B>Make:</b>
-
+<br /><br />
 Step 1: Make a Coil, see NRG Deep Correlation Video: https://www.youtube.com/watch?v=ygCqykp6tC4&t=5s
 
 Step 2: Wire up the Arduino and Breadboard 
