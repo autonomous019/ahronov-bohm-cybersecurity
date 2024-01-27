@@ -83,11 +83,13 @@ Step 4: Place coil around object to shield from remote waves.
 
 NRG Excess Correlation Coil and Arduino Board Instructions: 
 
+  <blockquote>
   A. circuit board construction: <a href="https://www.youtube.com/@nrgexcesscorrelation4427">https://www.youtube.com/@nrgexcesscorrelation4427</a>
 
   B. building the coil: <a href="https://www.youtube.com/watch?v=ygCqykp6tC4">https://www.youtube.com/watch?v=ygCqykp6tC4</a>
 
   C. connect the coil to the board: <a href="https://www.youtube.com/watch?v=mzo3_rMk7X8">https://www.youtube.com/watch?v=mzo3_rMk7X8</a>
+  </blockquote>
 
 
 
