@@ -62,7 +62,7 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
 Step 1: Make a Coil, see NRG Deep Correlation Video: https://www.youtube.com/watch?v=ygCqykp6tC4&t=5s
 
 Step 2: Wire up the Arduino and Breadboard 
-place the breadboard in front of you make sure it is oriented correctly (see video for example), and the Arduino board above the Breadboard with the power connector (connects to laptop usb) to the left. (see video https://www.youtube.com/watch?v=iRq9ksZmrQc&t=3s )
+place the breadboard in front of you make sure it is oriented correctly (see video https://www.youtube.com/watch?v=iRq9ksZmrQc&t=3s )
 
  <img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/arduino%20controller.png?raw=true" width="400"> 
 
