@@ -46,13 +46,13 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
 <P>
  <b>Parts list:</b>
  <li>Arduino Uno Board, plus necessary connectors (purchase a starter kit online)</li> 
-<li>a 10" Embroider Hoop (remove all metal)</li>
+<li>a 10" Embroider Hoop (remove all metal) in metric units 25cm hoop</li>
 <li>Electric Tape</li>
 <li>Laptop</li>
-<li>Single strand 16 gauge speaker wire (low impedance we a re dealing with nano Te</li>sla here) </li>
+<li>Single strand 16 gauge speaker wire (low impedance we a re dealing with nano Te</li>sla here) in metric units get 2X1.5mm audio cable </li>
 <li>Arduino Breadboard</li>
 <li>1K Ohm Resistor</li>
-<li>TIP120< to 220 Voltage Regulator</li>
+<li>TIP120 to 220 Voltage Regulator</li>
 <li> Diode</li>
 <Li>Blue LED (470nm Wavelength)</li> 
 
