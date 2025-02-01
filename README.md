@@ -53,7 +53,7 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
 <li>Arduino Breadboard</li>
 <li>1K Ohm Resistor</li>
 <li>TIP120 to 220 Voltage Regulator</li>
-<li> Diode</li>
+<li> Diode 1N4007</li>
 <Li>Blue LED (470nm Wavelength)</li> 
 
 <hr>
