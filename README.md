@@ -70,7 +70,7 @@ place the breadboard in front of you make sure it is oriented correctly (see vid
 
 1. connect LED to pin a21 and a22
 2. on the Arduino Uno out pin 9 to pin b21 infront right leg of LED on bread board. Connect gound pin 9 to Breadboard - negative base. 
-3. Take 1K Ohm Resistor and connect to pin b22 in front of LED short leg, connect resistor out to pin f20 in front of 120 TIP V regulator.
+3. Take 1K Ohm Resistor and connect to pin b21 in front of LED short leg, connect resistor out to pin f20 in front of 120 TIP V regulator.
 4. Voltage regulator, facing properly the plastic should be facing you with the metal end farthest away from you, metal hole mount to rear, place in pin g20,g19,g18
 5. Ground the regulator, grab a jumper cable short or med red one or other color as you wish. one end connect to negative rail the other end connect to right pin of voltage regulator place in j18
 6. Coil In, pin h19 in front of center of V regulator
