@@ -92,6 +92,8 @@ NRG Excess Correlation Coil and Arduino Board Instructions:
   </blockquote>
 
 
+<img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/20250205_205045.jpg?raw=true" width="400"> 
+
 
 
 
