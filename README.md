@@ -54,7 +54,7 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
 <li>1K Ohm Resistor</li>
 <li>TIP120 to 220 Voltage Regulator</li>
 <li> Diode 1N4007</li>
-<Li>Blue LED (470nm Wavelength)</li> 
+<Li>Red LED (620nm Wavelength)</li> 
 
 <hr>
 <B>Make:</b>
