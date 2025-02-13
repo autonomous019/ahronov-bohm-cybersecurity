@@ -81,10 +81,10 @@ Step 3: open accelerate_frequency.ino in Arduino IDE then upload to Arduino Boar
     
 Step 4: Place coil around object to shield from remote waves. 
 
-NRG Excess Correlation Coil and Arduino Board Instructions: 
+<a href="https://www.youtube.com/@nrgexcesscorrelation4427">NRG Excess Correlation Coil and Arduino Board Instructions, https://www.youtube.com/@nrgexcesscorrelation4427</a>: 
 
   <blockquote>
-  A. circuit board construction: <a href="https://www.youtube.com/@nrgexcesscorrelation4427">https://www.youtube.com/@nrgexcesscorrelation4427</a>
+  A. circuit board construction: <a href="https://www.youtube.com/watch?v=iRq9ksZmrQc">https://www.youtube.com/watch?v=iRq9ksZmrQc</a>
 
   B. building the coil: <a href="https://www.youtube.com/watch?v=ygCqykp6tC4">https://www.youtube.com/watch?v=ygCqykp6tC4</a>
 
