@@ -95,6 +95,19 @@ Step 4: Place coil around object to shield from remote waves.
 <img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/20250205_205045.jpg?raw=true" width="400"> 
 
 
+<hr>
+
+<h1>LED based coiuntermeasure and use for the treatment of autism</h1>
+
+
+An easier way to get the benefits of this countermeaasure technology, which is has dual-use as a medical treatment for the conditions of autism, is that of using invisible infrared to generate a light bubble that uses the same pulsating EM waves, and also at 2x those wavelengths a gravitational field, using micro tesla magnetic waves, which is the equivalent of the coil based methodology of above, this method also elimnates the need for a bread board to drive the coil, intead using and SSR device we input the .ino driver file that generates the same field using light, this is directly related to the Soviet era work of Bobrov where he transitioned form hard wired physical devices to lasers and LEDs. 
+
+
+See video of demonstration of LED based system: <a href="https://www.youtube.com/shorts/4HB2JAgkeHE">Invisible Infrared Demo</a>
+
+
+In dark conditions this should allow a 25ft circumference of protection from static EM waves, or continuous wave technology. 
+<hr>
 
 
 
