@@ -113,6 +113,15 @@ See video of demonstration of LED based system: <a href="https://www.youtube.com
 
 
 In dark conditions this should allow a 25ft circumference of protection from static EM waves, or continuous wave technology. 
+
+Video demonstrating how to <a href="https://youtu.be/DZrOOhRCtZM?si=vF7w4FJKIFvgoMob">wire the arduino uno board to the light chord and socket</a>, to load the arduino uno board with the driver file see the instructions above for the coil. 
+
+
+It's pretty easy to wire up the SSR to the hot wire, usually red in the plug chord: 
+ssr connector 1 connects to the hot line coming from the plug and then ssr connector 2 connect to the hot line going to the lightbulb socket, and then connector 3 is connected to pin9 on the arduino board, and connector 4 is the ground that connects to the grnd on the arduion board. 
+
+
+
 <hr>
 
 
