@@ -120,6 +120,10 @@ Video demonstrating how to <a href="https://youtu.be/DZrOOhRCtZM?si=vF7w4FJKIFvg
 It's pretty easy to wire up the SSR to the hot wire, usually red in the plug chord: 
 ssr connector 1 connects to the hot line coming from the plug and then ssr connector 2 connect to the hot line going to the lightbulb socket, and then connector 3 is connected to pin9 on the arduino board, and connector 4 is the ground that connects to the grnd on the arduion board. 
 
+
+In the following I present a conversation with chatgpt4.o regarding the scientific theories explaining how this works:
+
+
 theoretical question, if a person suffering from autism which involves sensory overload reports that using this device, the modulated led lamp, helps them and calms them down and reduces the sensory overload, what could explain this theoretically?
 
 That’s a profound and important question — let’s explore why a modulated LED lamp might help someone with autism spectrum disorder (ASD) manage sensory overload, using a combination of neuroscience, psychology, and electromagnetic theory.
