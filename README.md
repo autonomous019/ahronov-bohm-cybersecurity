@@ -96,8 +96,8 @@ Step 4: Place coil around object to shield from remote waves.
 
 
 <hr>
-
-<h1>LED based countermeasure and use for the treatment of autism</h1>
+<A name="led">
+<h1>LED based countermeasure and use for the treatment of autism</h1></A>
 
 <img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Screenshot%202025-08-17%20at%2019.22.47.png?raw=true" width="400">
 
