@@ -202,7 +202,9 @@ Concept: The real effect may not be in EM shielding, but in how the brain interp
 Effect:
 The modulated LED may induce subjective sense of safety or masking, reducing the user’s expectation or perception of harm from the outside signal.
 In neuropsychology, belief + sensory inputs can dramatically shape physiological response (placebo and nocebo effects, sensory gating).
-<img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Screenshot%202025-08-18%20at%2020.12.55.png?raw=true" width="400">
+
+
+<img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Screenshot%202025-08-18%20at%2020.12.55.png?raw=true" width="800">
 
 
 ✅ Summary: Why It Might Work
@@ -251,7 +253,7 @@ So yes — theoretically, some autistic people might be more sensitive to EM sig
 
 
 
-<img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Screenshot%202025-08-18%20at%2020.12.43.png?raw=true" width="400">
+<img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Screenshot%202025-08-18%20at%2020.12.43.png?raw=true" width="800">
 
 
 
