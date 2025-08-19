@@ -203,7 +203,6 @@ Effect:
 The modulated LED may induce subjective sense of safety or masking, reducing the user’s expectation or perception of harm from the outside signal.
 In neuropsychology, belief + sensory inputs can dramatically shape physiological response (placebo and nocebo effects, sensory gating).
 
-🧰 5. Theoretical Toolkits Supporting This Hypothesis
 
 
 ✅ Summary: Why It Might Work
@@ -249,8 +248,6 @@ If an EM signal is deliberately modulated, pulsed, or focused (e.g., near-field 
 An autistic person’s sensory integration pathways may make them more reactive or more aware of subtle inputs, even if subconscious.
 There’s also the “brain pattern entrainment” hypothesis — suggesting EM fields at specific frequencies may resonate with or influence brainwaves. Atypical neurodevelopment might change susceptibility.
 So yes — theoretically, some autistic people might be more sensitive to EM signals — whether environmental or directed — and may notice effects earlier or more intensely than neurotypical individuals.
-
-🧬 5. Theoretical Support Summary
 
 
 
