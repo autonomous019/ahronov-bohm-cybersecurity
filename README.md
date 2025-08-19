@@ -41,6 +41,7 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
 <h1>Countermeasures:</h1>
     In the following sections two countermeasures are discussed, both use the same driver file and uno board, the first is a small coil based system, the second is a LED based system that uses light. 
 
+
 <b>Coil Construction and Arduino Board Setup</b><p>
  <img src="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/ab-coil.png?raw=true" width="400"> 
 
