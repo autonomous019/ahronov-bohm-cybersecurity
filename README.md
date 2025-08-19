@@ -77,7 +77,7 @@ place the breadboard in front of you make sure it is oriented correctly (see vid
 7. Diode, (grey strip is out) grey end into + positive pin 20 of breadboard base. In goes to pin j19 behind out to coil. (see video) 
 8. Coil out, to + positive on board base rail pin 21, should be next to diode, to the left of the diode one pin location. 
     
-Step 3: open accelerate_frequency.ino in Arduino IDE then upload to Arduino Board.
+Step 3: open <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/accelerate_frequency_driver.ino">accelerate_frequency_driver.ino</a> in Arduino IDE then upload to Arduino Board.
     
 Step 4: Place coil around object to shield from remote waves. 
 
@@ -114,7 +114,7 @@ See video of demonstration of LED based system: <a href="https://www.youtube.com
 
 In dark conditions this should allow a 25ft circumference of protection from static EM waves, or continuous wave technology. 
 
-Video demonstrating how to <a href="https://youtu.be/DZrOOhRCtZM?si=vF7w4FJKIFvgoMob">wire the arduino uno board to the light chord and socket</a>, to load the arduino uno board with the driver file see the instructions above for the coil. 
+Video demonstrating how to <a href="https://youtu.be/DZrOOhRCtZM?si=vF7w4FJKIFvgoMob">wire the arduino uno board to the light chord and socket</a>, to load the arduino uno board with the <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/accelerate_frequency_driver.ino">accelerate_frequency_driver.ino</a> driver file see the instructions above for the coil. 
 
 
 It's pretty easy to wire up the SSR to the hot wire, usually red in the plug chord: 
