@@ -337,8 +337,12 @@ Puthoff, H. (1998) US Patent 5845220 ‘Communication Method and Apparatus with 
 
 Verma, R., et al (2019) Neuroimaging Findings in US Government Personnel With Possible Exposure to Directional Phenomena in Havana, CubaJAMA. 2019;322(4):336-347. doi:10.1001/jama.2019.9269
 
+<hr>
 
-<p class="p1">Analysis of EM Field Interaction Theories Across Experimental Papers</p>
+<h1>Chatgpt Analysis of Research</h1>
+
+
+<b><u><p class="p1">Analysis of EM Field Interaction Theories Across Experimental Papers</p></u></b>
 <p class="p2"><br></p>
 <p class="p3"><b>Converging Theories of Non-Local EM Field Interactions and Applications</b></p>
 <p class="p4"><b>Introduction</b></p>
