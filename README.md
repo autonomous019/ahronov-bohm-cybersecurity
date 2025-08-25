@@ -1,15 +1,6 @@
 # ahronov-bohm-cybersecurity
 
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; min-height: 14.0px}
-    p.p3 {margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; color: #000000}
-    p.p4 {margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #000000}
-    p.p5 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000; min-height: 14.0px}
-    li.li1 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000}
-    span.s1 {text-decoration: underline ; color: #0000e9}
-    ul.ul1 {list-style-type: disc}
-  </style>
+
 
  <h3> <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Are Changing Angular Velocity Magnetic Fields a Countermeasure to Havana Syndrome and other Pulsed Modulated Frequency Cyberattacks?</a></h3>
 By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@protonmail.com)<br>
