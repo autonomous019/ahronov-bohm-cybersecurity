@@ -474,7 +474,6 @@ This is a safe, target level for continuous use. Verify with a smartphone magnet
   - CV-QKD: illustrative **key-rate proxy** vs **excess noise ξ**; how LO/pilot phase wander looks like ξ.
 - `QKD_ABE_DoS_Hardening_Checklist.pdf` — One-page deployment checklist.
 - `QKD_ABE_Threat_Model.png` — Diagram: **Entry → Effects → Defenses**.
-- (See `/docs` in this repo for deeper whitepapers on ABE phase-locking vs entanglement, remote readout architectures, and defense strategies.)
 
 ---
 
@@ -573,6 +572,7 @@ MIT. PRs welcome—especially repeatable tests, field data, and better estimator
 
 
 ---
+
 
 
 In the following I present a conversation with chatgpt4.o regarding the scientific theories explaining how this works:
