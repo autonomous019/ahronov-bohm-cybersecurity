@@ -313,6 +313,51 @@ ssr connector 1 connects to the hot line coming from the plug and then ssr conne
 ---
 
 <h3>Protecting a Classical Computer</h3>
+
+# ABE-Style Threat Vectors Against Classical Computers and IoT
+
+This repository explores **Aharonov–Bohm Effect (ABE)**-style electromagnetic phase perturbation threats against **classical computers, embedded systems, and IoT devices**.
+
+## Overview
+
+ABE threats are not limited to quantum systems — they can disrupt everyday computing by coupling to clocks, PLLs, and power delivery networks, or by spoofing sensors. This repo documents:
+
+- Attack surfaces in CPUs, IoT nodes, and wireless stacks
+- How vector potential or phase-coded noise can induce timing faults or DoS
+- Fault-injection scenarios for crypto engines and secure elements
+- Practical mitigations for security architects
+
+## Attack Surfaces
+
+- **System Clock & PLLs** – ABE-like vector potentials can introduce clock jitter, causing data corruption or timing faults.
+- **Power Delivery Networks** – Inductor-based regulators may experience induced errors leading to brownouts or soft resets.
+- **Wireless Stack** – OFDM/BLE demodulation relies on precise phase recovery — interference causes throughput collapse.
+- **Crypto Engines** – Biasing oscillators or metastability can yield exploitable faults for DFA or key recovery.
+- **IoT Sensors** – MEMS sensors can be spoofed or blinded with coherent noise.
+
+## Cybersecurity Implications
+
+| Vector | Impact | Risk |
+|-------|--------|------|
+| Phase jitter | Data corruption, timing faults | DoS |
+| PLL desync | Loss of network connectivity | Network outage |
+| Sensor spoofing | Fake sensor readings | Safety compromise |
+| Crypto faults | Faulted signatures or AES output | Key recovery attack |
+
+## Mitigations
+
+- **Clock Hardening**: dual oscillators, watchdog resets, spread-spectrum clocking.
+- **Shielding**: μ-metal, ferrite beads, isolated ground planes.
+- **Sensor Fusion**: cross-check and anomaly detection to reject spoofed data.
+- **ECC/Parity**: protect buses and memory.
+- **Environmental Monitoring**: magnetometers near critical racks; correlation with system faults.
+
+## Included Files
+
+- **Classical_Computer_ABE_Report.pdf** — High-level report for CISOs & engineers.
+- **Classical_ABE_PhaseNoise_Simulation.ipynb** — Notebook showing phase noise effect on PLL/clock stability.
+
+
 # LED + Coil Randomizer: DIY Optical + Magnetic Noise Source
 
 This project turns your IR LED jammer into a **combo optical + magnetic randomizer** that can raise the local noise floor for potential EM-based interference (including theoretical ABE-style attacks). It is safe, low-cost, and laptop-friendly.
