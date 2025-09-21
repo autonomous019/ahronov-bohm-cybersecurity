@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1100" height="700" viewBox="0 0 1100 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font: bold 28px Helvetica, Arial, sans-serif; fill: #0b3d91; }
+      .subtitle { font: 16px Helvetica, Arial, sans-serif; fill: #333; }
+      .box { fill: #f5f8ff; stroke: #7aa2ff; stroke-width: 2; rx: 10; }
+      .box2 { fill: #fff8f5; stroke: #ff9f7a; stroke-width: 2; rx: 10; }
+      .box3 { fill: #f5fff8; stroke: #7aff9f; stroke-width: 2; rx: 10; }
+      .label { font: bold 16px Helvetica, Arial, sans-serif; fill: #111; }
+      .text { font: 14px Helvetica, Arial, sans-serif; fill: #222; }
+      .arrow { stroke: #444; stroke-width: 2; marker-end: url(#arrowhead); fill: none; }
+      .legend { font: 14px Helvetica, Arial, sans-serif; fill: #444; }
+    </style>
+    <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#444"/>
+    </marker>
+  </defs>
+
+  <text x="550" y="40" text-anchor="middle" class="title">ABE-Based Threat Surface - Quantum &amp; Biological Systems</text>
+  <text x="550" y="70" text-anchor="middle" class="subtitle">Phase-coherent vector potentials as attack/defense vectors</text>
+
+  <!-- ABE / Vector Potential Emitter -->
+  <rect x="60" y="110" width="300" height="120" class="box"/>
+  <text x="210" y="140" text-anchor="middle" class="label">ABE / Vector Potential Source</text>
+  <text x="80" y="165" class="text">• Toroidal coil / potential-only TX</text>
+  <text x="80" y="185" class="text">• Chirped / accelerating rhythms</text>
+  <text x="80" y="205" class="text">• Phase-coded signaling</text>
+
+  <!-- Quantum Systems -->
+  <rect x="430" y="110" width="280" height="180" class="box2"/>
+  <text x="570" y="140" text-anchor="middle" class="label">Quantum Systems</text>
+  <text x="450" y="165" class="text">• Superconducting / spin qubits</text>
+  <text x="450" y="185" class="text">• Trapped ions, neutral atoms</text>
+  <text x="450" y="205" class="text">• QKD links (BB84/E91)</text>
+  <text x="450" y="225" class="text">• Interferometers / SQUIDs</text>
+
+  <!-- Biological Systems -->
+  <rect x="760" y="110" width="280" height="180" class="box2"/>
+  <text x="900" y="140" text-anchor="middle" class="label">Biological Systems</text>
+  <text x="780" y="165" class="text">• Neural oscillations (θ/α/γ)</text>
+  <text x="780" y="185" class="text">• Biophotons / spin chemistry</text>
+  <text x="780" y="205" class="text">• Vestibular/cognitive function</text>
+  <text x="780" y="225" class="text">• Potential neurowarfare targets</text>
+
+  <!-- Attack Arrows -->
+  <path d="M360,170 C400,140 430,140 430,170" class="arrow"/>
+  <path d="M360,200 C420,200 430,200 430,200" class="arrow"/>
+  <path d="M360,230 C400,260 430,260 430,260" class="arrow"/>
+
+  <path d="M710,170 C740,140 760,140 760,170" class="arrow"/>
+  <path d="M710,200 C760,200 760,200 760,200" class="arrow"/>
+  <path d="M710,230 C740,260 760,260 760,260" class="arrow"/>
+
+  <!-- Threat labels -->
+  <text x="520" y="100" text-anchor="middle" class="legend">Phase manipulation • Decoherence • Side-channels</text>
+  <text x="900" y="100" text-anchor="middle" class="legend">Entrainment • Desynchronization • Cognitive effects</text>
+
+  <!-- Defensive Measures -->
+  <rect x="170" y="360" width="290" height="160" class="box3"/>
+  <text x="315" y="390" text-anchor="middle" class="label">Defenses</text>
+  <text x="190" y="415" class="text">• Pseudo-random vector potential noise</text>
+  <text x="190" y="435" class="text">• SQUID/magnetometer monitoring</text>
+  <text x="190" y="455" class="text">• QBER anomaly detection (QKD)</text>
+  <text x="190" y="475" class="text">• Neuro-shielding / phase jamming</text>
+
+  <!-- Arrows from defenses to targets -->
+  <path d="M460,420 C520,380 570,360 650,300" class="arrow"/>
+  <path d="M460,460 C550,460 700,380 820,300" class="arrow"/>
+
+  <!-- Legend -->
+  <rect x="750" y="360" width="290" height="160" class="box"/>
+  <text x="895" y="390" text-anchor="middle" class="label">Legend</text>
+  <text x="770" y="415" class="text">• Blue = Sources/Context</text>
+  <text x="770" y="435" class="text">• Orange = Targets (threat surface)</text>
+  <text x="770" y="455" class="text">• Green = Defenses</text>
+  <text x="770" y="475" class="text">• Arrows = attack/mitigation vectors</text>
+</svg>
