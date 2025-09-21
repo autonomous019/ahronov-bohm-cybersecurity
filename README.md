@@ -448,13 +448,128 @@ This is a safe, target level for continuous use. Verify with a smartphone magnet
 
 ---
 
-##H. Going further
+## H. Going further
 
 - Quieter driver: swap to TB6612FNG; it’s efficient and less “crunchy” than L298N.
 
 - PCB spiral coil: a compact, flat field source (lower current); easy to integrate in a laptop mat.
 
 - Auto-throttle: measure driver temp (simple thermistor) and reduce burst duty if it rises.
+
+
+---
+
+# ABE-Aware Quantum Security: DoS, QKD Risks, and Hardening
+
+**Goal:** practical guidance for quantum-security engineers on how **Aharonov–Bohm–style (ABE) phase perturbations**—or any coherent low-amplitude phase noise—can degrade or deny service in **QKD** and impact emerging quantum compute stacks, plus mitigations, simulations, and operational checklists.
+
+> TL;DR: If your system *measures or encodes phase*, an attacker who can inject **tiny, structured phase noise** into interferometers, pilot/LO references, or flux-sensitive elements can spike **QBER / excess noise (ξ)** and collapse your key rate (DoS). Harden clocks, pilots, optics, and monitoring.
+
+---
+
+## Contents
+
+- `QKD_Phase_Noise_Simulation.ipynb` — Notebook showing:
+  - DV-QKD: **Visibility** \(V = e^{-σ_φ^2/2}\) vs RMS phase noise \(σ_φ\); **QBER ≈ (1–V)/2**.
+  - CV-QKD: illustrative **key-rate proxy** vs **excess noise ξ**; how LO/pilot phase wander looks like ξ.
+- `QKD_ABE_DoS_Hardening_Checklist.pdf` — One-page deployment checklist.
+- `QKD_ABE_Threat_Model.png` — Diagram: **Entry → Effects → Defenses**.
+- (See `/docs` in this repo for deeper whitepapers on ABE phase-locking vs entanglement, remote readout architectures, and defense strategies.)
+
+---
+
+## Threat Model (Engineer's View)
+
+**Targets**
+- DV-QKD interferometers (time/phase-bin, polarization with phase bias)
+- CV-QKD LOs / pilot-tone recovery and homodyne/heterodyne receivers
+- Twin-Field & MDI-QKD (global phase alignment critical)
+- Quantum compute: SQUIDs/flux qubits; cavity-stabilized lasers; trapped-ion Raman phase
+
+**ABE-style Entry Points**
+- Low-freq magnetic / vector-potential coupling near **fiber coils, phase modulators, polarization controllers**
+- **Pilot/LO** phase/frequency recovery paths
+- **Bias supplies** (phase modulators, photodiodes) and **ground loops**
+- Thermal/acoustic nudging of coils / cavities (phase drift masquerading as environment)
+
+**Effects**
+- DV-QKD: lower interference **visibility** → higher **QBER** → **abort**
+- CV-QKD: increased **excess noise ξ** → secret key **rate → 0**
+- PLLs drop/re-lock, parameter estimation exceeds thresholds
+- For compute: reduced \(T_2\), phase slips, failed calibrations
+
+---
+
+## Quick Math
+
+- **DV-QKD**: \( V = e^{-σ_φ^2/2} \Rightarrow \mathrm{QBER} \approx (1 - V)/2 \).  
+  A modest \(σ_φ \approx 0.67\,\text{rad}\) yields QBER ≈ 10% (typical abort).
+- **CV-QKD**: Secret key rate collapses once **excess noise ξ** exceeds protocol-specific bounds.  
+  Small LO/pilot phase wander often appears as ξ in parameter estimation.
+
+> Use your protocol’s exact security proof and parameter estimator for production thresholds.
+
+---
+
+## Hardening Checklist (abbreviated)
+
+**Protocol**
+- Prefer **MDI/TF-QKD** where feasible; use **decoy states** and authenticated sifting
+- Tight **parameter-estimation** bands; **change-point detection** for slow drifts
+- **Nonce-salted phase dither** on controllers; multi-tone pilots with randomized hops
+
+**Hardware**
+- **Thermo-acoustic** enclosures for interferometers; μ-metal where it matters
+- Rigid mounts; isolate fiber spools from vibration and magnetic sources
+- **Star grounds**; LC/RC filtering on modulator & detector bias; fiber-optic control links
+
+**Timing/Clocks**
+- GPSDO/Rubidium references; **dual-clock voting**; monitor **Allan deviation**
+- Alarm on pilot/LO **phase variance** and **line/chirp spectra**
+
+**Monitoring**
+- **Magnetometer + accelerometer** sentries near optics; SIEM ingest & correlation
+- **Spectral sentinels** on pilots/LO; canary interferometer (dark, unused path)
+- Correlate QBER/ξ anomalies with environment; flag **non-natural signatures**
+
+See the full one-pager: `QKD_ABE_DoS_Hardening_Checklist.pdf`.
+
+---
+
+## Simulations
+
+Open `QKD_Phase_Noise_Simulation.ipynb` to:
+- Sweep RMS phase noise \(σ_φ\) and watch **visibility/QBER** degrade (DV-QKD).
+- Explore how **excess noise ξ** drives a **key-rate proxy** to zero (CV-QKD).
+- Sketch how LO/pilot phase wander maps into ξ (illustrative).
+
+> Adapt the notebook to your hardware: insert your interferometer visibility model, pilot estimator, and acceptance thresholds.
+
+---
+
+## Red-Team Exercises (Lab Only)
+
+1. Pilot-tone perturbation: inject small phase around the pilot; measure ξ growth.  
+2. ELF magnetic chirp near fiber coils/modulators; watch visibility and PLL re-locks.  
+3. Bias-line injection (capacitive/inductive) → QBER spikes.  
+4. Thermal/acoustic dithers (0.5–5 Hz) to match coil/cavity time constants.  
+5. For TF/MDI: differential laser phase drift to desynchronize the BSM.
+
+**Legal/Ethical:** only against your own gear in a controlled lab.
+
+---
+
+## Roadmap
+
+- Add quantitative **parameter-estimation hooks** for BB84/decoy and CV-QKD variants.
+- Extend simulations to **Twin-Field** phase-tracking loops and **MDI** visibility.
+- Integrate **environmental sensor telemetry** (magnetometer/accelerometer) into anomaly detection.
+
+---
+
+## License & Contribution
+
+MIT. PRs welcome—especially repeatable tests, field data, and better estimators for production protocols.
 
 
 ---
@@ -603,17 +718,6 @@ So yes — theoretically, some autistic people might be more sensitive to EM sig
 
 
 
-## ⚠️ Disclaimer
-
-For **research and defense** purposes only.  
-Always follow local regulations for EM emissions and human-subject safety.
-
----
-
-## 🧠 Maintainers
-
-**Ceilli Research / Autonomous019**  
-Exploring the intersection of **quantum physics, neuroscience, and cybersecurity**.
 
 
 
