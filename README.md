@@ -9,7 +9,7 @@ Any application of these techniques must comply with applicable laws and ethics 
 
 ## 🧠 Maintainers
 
-**<q href="https://www.ceilli.com">Céillí.com</a> Cybersecurity Division / Autonomous019**  
+**<a href="https://www.ceilli.com">Céillí.com</a> Cybersecurity Division / Autonomous019**  
 Exploring the intersection of **quantum physics, neuroscience, and cybersecurity**.
 
 
