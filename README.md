@@ -819,7 +819,11 @@ Verma, R., et al (2019) Neuroimaging Findings in US Government Personnel With Po
 
 <hr>
 
-<h1>Chatgpt Analysis of Research</h1>
+---
+
+
+
+<h1>Analysis of Research by ChatGpt</h1>
 
 
 <b><u><p class="p1">Analysis of EM Field Interaction Theories Across Experimental Papers</p></u></b>
