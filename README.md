@@ -7,6 +7,12 @@ This repository is for **academic, defensive, and educational purposes only**.
 Any application of these techniques must comply with applicable laws and ethics guidelines for EM emissions, human subject research, and cybersecurity practice.
 
 
+## 🧠 Maintainers
+
+**<q href="https://www.ceilli.com">Céillí.com</a> Cybersecurity Division / Autonomous019**  
+Exploring the intersection of **quantum physics, neuroscience, and cybersecurity**.
+
+
  <h3> <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Ahronov-Bohm Effect Cybersecurity</a></h3>
 By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@protonmail.com)<br>
 
@@ -150,16 +156,11 @@ Any application of these techniques must comply with applicable laws and ethics 
 
 ---
 
-## 🧠 Maintainers
 
-**Ceilli Research / Autonomous019**  
-Exploring the intersection of **quantum physics, neuroscience, and cybersecurity**.
+---
 
 
-
-
-
-<b>Threat Analysis:</b>
+<h3>Threat Analysis:</h3>
 
 
 Since the end of World War I, the study of EM and Gravitational Waves for the purpose of information warfare (McCarron, 2021) has been pursued by global strategic players such as the Nazi Regime in Germany, the USSR, and NATO alliance, while also persued by the Peoples Republic of China (PRC), while keeping in mind the only country not to ratify treaties banning biological weapons with the technical resources to do it, is Israel (ACA, 2018), which also has a history of conducting espionage against allies like the United States and has recruited many ex-Soviet engineers and is a society based in ethno-religious supremacy (HRW, 2021).  State actors are not the only ones that could have this capability as it is available on the black market, as well as any small technically outfitted terrorist group could also accomplish this technology. Indeed, the roots of political deception are found in the intoxication tactics of the 4th Reich inspired Black International. A full review of information warfare using signals and cybernetics is covered in McCarron 2021. 
