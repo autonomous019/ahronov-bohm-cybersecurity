@@ -147,14 +147,6 @@ These visuals clarify how **phase-coded signaling** could be a double-edged swor
 - Puthoff (1998), US Patent 5,845,220: *Scalar/Vector Potential Communications* [patent](https://patents.google.com/patent/US5845220A/en)  
 - Krishnan (2017), *Military Neuroscience and the Coming Age of Neurowarfare*  
 
----
-
-## ⚠️ Disclaimer
-
-This repository is for **academic, defensive, and educational purposes only**.  
-Any application of these techniques must comply with applicable laws and ethics guidelines for EM emissions, human subject research, and cybersecurity practice.
-
----
 
 
 ---
