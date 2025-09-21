@@ -30,7 +30,7 @@ This work is derived from research on my Cybersecurity book: 'Battlespace of Min
 
 This project is aimed at Blue Team cybersecurity regarding the noosphere, the mind, or nouscurity, it can be applied to hardware such as embedded medical devices and wetware, such as the brain itself. It is based on the scientific neurocognitive research originating in the Soviet Military and then continued in public research in the West such as Dr. Serge Kernbach at University of Stuttgart and Dr. Michael Persinger of Laurentian University.  This research is also within the US Military Defense industry and hence is usually classified.  This countermeasure is inspired by Persinger (2002) where discussion of countering remote viewing is reviewed. 
 
-It is based on the utilization of the Ahronov-Bohm effect, creating a potential energy shield to guard against cyberbased attacks on hardware and software. It protects the user from invasive electro-magnetic frequencies, effectively scrambling them before reaching the target vector, for instance the Microtubules of the Neurons in the Brain.   
+It is based on the utilization of the <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/The%20Aharonov%E2%80%93Bohm%20Effect_%20Phase%20Coherence%20from%20Physics%20to%20Biology.pdf>Ahronov-Bohm effect</a>, creating a potential energy shield to guard against cyberbased attacks on hardware and software. It protects the user from invasive electro-magnetic frequencies, effectively scrambling them before reaching the target vector, for instance the Microtubules of the Neurons in the Brain.   
 
 The code file is a Arduino Sketch file designed for use with the Ahronov-Bohm coil a piece of the Ahronov-Bohm generator created by Dr. Hal Puthoff.  I prefer the <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/accelerate_frequency_driver.ino">accelerate_frequency_driver.ino</a> it sets 4 random frequencies (salts) before a repeating pattern of accelerating EM wave forms. The salt is intended to create an unguessable pattern to the frequencies otherwise anyone with a coil with the same patterns could be used as an attack vector. 
 
@@ -68,6 +68,17 @@ Traditional cybersecurity focuses on bits and bytes — this project looks deepe
 
 ---
 
+
+
+
+## 🖼️ Threat Surface Diagram
+
+![Threat Surface Diagram](./ABE_Threat_Surface_Diagram_FIXED.svg)
+
+
+
+---
+
 ## 🛡️ Defensive Strategies
 
 - **Active Phase Noise Generators:** Pseudo-random vector potential emitters to jam malicious phase injections.
@@ -78,35 +89,39 @@ Traditional cybersecurity focuses on bits and bytes — this project looks deepe
 
 ---
 
+
+## 🧠 ABE-Based Cognitive Security Model
+
+This project explores how **Aharonov–Bohm Generators (ABGs)** can be used both offensively (for thought injection or remote cognitive influence) and defensively (as a shielding or jamming mechanism).
+
+### Attack Path
+![Thought Injection Flowchart](ABE_Thought_Injection_Flowchart.png)
+
+1. **AB Generator:** Produces structured vector potentials (curl-free).
+2. **Phase Encoding:** Modulates these potentials (QSK-like) with desired cognitive payloads.
+3. **Target Coupling:** Neural substrates phase-lock to the external pattern.
+4. **Effect:** Perception alteration, memory priming, or “thought injection.”
+
+### Defense Path
+![Attack vs Defense Flowchart](ABE_Attack_Defense_Flowchart.png)
+
+- **Defensive Strategy:** Generate randomized, accelerating vector potentials to break phase coherence.
+- **Outcome:** Disrupts remote coupling and masks target brain from external phase-based attacks.
+- **Analogy:** Functions like spread-spectrum jamming in RF communications.
+
+These visuals clarify how **phase-coded signaling** could be a double-edged sword — a tool for covert cognitive control or for **neuro-cybersecurity shielding**.
+
+
+
 ## 📊 Included in This Repository
 
-- **`ABE_Quantum_Cybersecurity_Report.pdf`** — formal report for security researchers  
-- **`ABE_Comm_QKD_Demos.ipynb`** — Jupyter notebook demos:  
+- **`ABE_Quantum_Cybersecurity_Report.pdf`** — formal report for security researchers  [<a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/ABE_Quantum_Cybersecurity_Report.pdf">Link to File</a>
+- **`ABE_Comm_QKD_Demos.ipynb`** — Jupyter notebook demos <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/ABE_Comm_QKD_Demos.ipynb">Link to File</a>:  
   - ABE phase-coded communications (BER curves)  
   - BB84 QKD with QBER vs eavesdropper  
-- **`abe_comm_qkd_demos.py`** — batch script to regenerate plots  
+- **`abe_comm_qkd_demos.py`** — batch script to regenerate plots <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/abe_comm_qkd_demos.py">Link to File</a>
 - **DIY Arduino/ESP32 Sketches** — for LED & coil emitters  
 
----
-
-## 🛡️ Defensive Strategies
-
-- Pseudo-random vector potential noise emitters
-- Magnetometer or SQUID monitoring for abnormal potentials
-- QBER anomaly detection in QKD systems
-- EM noise shielding for biological targets
-## 📊 Included in This Repository
-
-- **`ABE_Quantum_Cybersecurity_Report.pdf`**  
-  A concise report for quantum security professionals and policymakers.
-
-- **`ABE_Comm_QKD_Demos.ipynb`**  
-  Interactive notebook featuring:
-  - **AB Phase-Coded Communication** — BER vs noise curves
-  - **BB84 QKD Simulation** — QBER vs eavesdropper probability
-
-- **`abe_comm_qkd_demos.py`**  
-  Standalone Python script version for batch runs and training exercises.
 
 ---
 
@@ -208,11 +223,6 @@ This repository also contains **DIY builds** for creating local protective field
 
 ---
 
-## 🖼️ Threat Surface Diagram
-
-![Threat Surface Diagram](./ABE_Threat_Surface_Diagram_FIXED.svg)
-
-
 
 <h1>Countermeasures:</h1>
     In the following sections two countermeasures are discussed, both use the same driver file and uno board, the first is a small coil based system, the second is a LED based system that uses light. 
@@ -297,6 +307,111 @@ Video demonstrating how to <a href="https://youtu.be/DZrOOhRCtZM?si=vF7w4FJKIFvg
 
 It's pretty easy to wire up the SSR to the hot wire, usually red in the plug chord: 
 ssr connector 1 connects to the hot line coming from the plug and then ssr connector 2 connect to the hot line going to the lightbulb socket, and then connector 3 is connected to pin9 on the arduino board, and connector 4 is the ground that connects to the grnd on the arduion board. 
+
+
+---
+
+<h3>Protecting a Classical Computer</h3>
+# LED + Coil Randomizer: DIY Optical + Magnetic Noise Source
+
+This project turns your IR LED jammer into a **combo optical + magnetic randomizer** that can raise the local noise floor for potential EM-based interference (including theoretical ABE-style attacks). It is safe, low-cost, and laptop-friendly.
+
+---
+
+## A. What We're Building
+
+- **Optical Path:** Randomized IR/visible LED bursts (your existing setup).
+- **Magnetic Path:** A small **Helmholtz coil pair** driven by an H-bridge producing randomized, alternating ELF/low-audio magnetic noise (10 Hz–5 kHz).
+- Goal: Make it harder for any phase-coherent interference to lock onto local clocks/PLLs/sensors.
+
+---
+
+## B. Bill of Materials
+
+| Component | Example Part |
+|----------|---------------|
+| **Controller** | ESP32 Dev Board (preferred) or Arduino Nano/Uno |
+| **Coil Driver** | DRV8871 (2–3 A peak) or TB6612FNG (low noise) |
+| **Coils** | 2× 10 cm radius coils, ~100 turns each of AWG 26–28 magnet wire |
+| **Power Supply** | 5–9 V DC, separate from ESP32 USB |
+| **Misc** | Dupont wires, perfboard, 10 kΩ pulldowns, zip ties |
+
+---
+
+## C. Field Strength Estimate
+
+Helmholtz pair center field:
+
+\[
+B ≈ \left(\frac{4}{5}\right)^{3/2}\frac{\mu_0 N I}{R}
+\]
+
+Example: **R = 0.10 m, N = 100, I = 50 mA ⇒ B ≈ 56 µT** (≈ Earth field).
+
+This is a safe, target level for continuous use. Verify with a smartphone magnetometer.
+
+---
+
+## D. Wiring Overview
+
+1. **Coils:** Series-wired, separated by R (Helmholtz geometry).
+2. **Driver:**  
+   - `VM` → 5–9 V supply  
+   - `GND` → supply ground + ESP32 ground  
+   - `OUT+`/`OUT−` → coil terminals  
+   - `IN1` → ESP32 GPIO16 (PWM)  
+   - `IN2` → ESP32 GPIO17 (direction)  
+3. **LED:** Existing IR/visible LED on GPIO2 (onboard LED supported).  
+4. **Common Ground:** Tie all grounds together.
+
+---
+
+## E. Tuning notes
+
+- If the driver/coil warms up, reduce duty or the burst durations.
+
+- To widen spectrum, push frequency range to 20–10 kHz (keep within driver’s comfort and away from audible tones if you prefer it silent).
+
+- To be extra stealthy, randomize direction (IN2_DIR) more frequently.
+
+---
+
+## F. Safety & practical use
+
+- Magnetic field level: Stay in the 10–100 µT range for continuous operation (Earth ≈ 50 µT). That’s typically 20–50 mA in the example coils.
+
+- Heat: Coils and driver should be warm at most, never hot to touch. Add airflow or reduce duty if hot.
+
+- Medical devices: Avoid bringing this device near pacemakers/implants or sensitive lab instruments.
+
+- Wi-Fi/BLE: Keep a few inches away from antennas to avoid throughput dips while testing.
+
+---
+
+## G. Quick test protocol
+
+- Power ESP32 via USB; H-bridge from 5–9 V. Common GND.
+
+- Run code; watch Serial log for “ready.”
+
+- Use a phone magnetometer next to the laptop: confirm fluctuating field roughly tens of µT (you’ll see it wiggle).
+
+- Place device near the laptop’s rear edge (away from screen cameras if you don’t want optical effects on them).
+
+- Try common “jitter-sensitive” tasks (e.g., high-rate Wi-Fi traffic, external monitor hot-plug) and watch for resilience; you’re trying to raise the noise floor, not cause your own DoS.
+
+---
+
+##H. Going further
+
+- Quieter driver: swap to TB6612FNG; it’s efficient and less “crunchy” than L298N.
+
+- PCB spiral coil: a compact, flat field source (lower current); easy to integrate in a laptop mat.
+
+- Auto-throttle: measure driver temp (simple thermistor) and reduce burst duty if it rises.
+
+
+---
 
 
 In the following I present a conversation with chatgpt4.o regarding the scientific theories explaining how this works:
