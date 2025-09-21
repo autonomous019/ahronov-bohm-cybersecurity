@@ -1,6 +1,11 @@
 # ahronov-bohm-cybersecurity
 
 
+## ⚠️ Disclaimer
+
+This repository is for **academic, defensive, and educational purposes only**.  
+Any application of these techniques must comply with applicable laws and ethics guidelines for EM emissions, human subject research, and cybersecurity practice.
+
 
  <h3> <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Are Changing Angular Velocity Magnetic Fields a Countermeasure to Havana Syndrome and other Pulsed Modulated Frequency Cyberattacks?</a></h3>
 By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@protonmail.com)<br>
@@ -272,6 +277,198 @@ So yes — theoretically, some autistic people might be more sensitive to EM sig
 
 <hr>
 
+
+# 🔐 Aharonov–Bohm Cybersecurity Toolkit
+
+This repository explores **Aharonov–Bohm Effect (ABE)** physics as both a *threat model* and a *defense tool* in the emerging field of **neural & quantum cybersecurity**.  
+It combines theoretical analysis, simulation code, and countermeasure strategies to help researchers understand how **phase-coherent vector potentials** could influence quantum devices, communication channels, and even biological systems.
+
+---
+
+## 📖 Overview
+
+Traditional cybersecurity focuses on bits and bytes — this project looks deeper, at **fields and phases**.
+
+- **Aharonov–Bohm Effect:** Phase shifts induced by electromagnetic vector potentials, even in “field-free” regions.
+- **Quantum Entanglement:** Nonlocal correlations that enable QKD, quantum sensing, and next-gen communications.
+- **Convergence:** Both rely on phase information — but ABE is deterministic, tunable, and potentially exploitable for **covert signaling or interference**.
+
+---
+
+## 🧠 Cybersecurity Threat Model
+
+| Threat Vector | Impact on Quantum Systems | Impact on Biological Systems |
+|---------------|------------------------|-----------------------------|
+| **Phase Manipulation** | Bias qubit measurement statistics, disrupt QKD | Entrain or desynchronize brain oscillations |
+| **Decoherence Injection** | Accelerate decoherence → DoS on quantum computers | Disrupt neural synchrony, impair cognition |
+| **Covert Channels** | Leak state information through vector potentials | Hypothetical "mind-to-mind" covert signaling |
+| **Accelerating Rhythms** | Sweep through resonant gate frequencies, maximize disruption | 3 ms pulses align with gamma/theta cycles, enhance entrainment |
+
+---
+
+## 🛡️ Defensive Strategies
+
+- **Active Phase Noise Generators:** Pseudo-random vector potential emitters to jam malicious phase injections.
+- **Magnetometer / SQUID Monitoring:** Detect abnormal low-frequency potential fluctuations in shielded labs.
+- **QBER Analytics:** Watch for anomalous quantum bit error rate spikes as indicators of attack.
+- **Neuro-Shielding:** Randomized EM fields to block unwanted coherence-locking of biological rhythms.
+
+---
+
+## 📊 Included in This Repository
+
+- **`ABE_Quantum_Cybersecurity_Report.pdf`**  
+  A concise report for quantum security professionals and policymakers.
+
+- **`ABE_Comm_QKD_Demos.ipynb`**  
+  Interactive notebook featuring:
+  - **AB Phase-Coded Communication** — BER vs noise curves
+  - **BB84 QKD Simulation** — QBER vs eavesdropper probability
+
+- **`abe_comm_qkd_demos.py`**  
+  Standalone Python script version for batch runs and training exercises.
+
+---
+
+## 🧪 Future Work
+
+- 🛰 **Quantum-Safe Covert Channels** — explore ABE-based communication for low-detectability messaging.
+- 🧬 **Neuro-Cyber Defense** — model Persinger/Kernbach-style fields as countermeasures to cognitive warfare.
+- 🧰 **Integration with ESP32/Arduino** — hardware demo of phase-modulated emitters for red-teaming experiments.
+
+---
+
+## 📚 References
+
+- Dotta & Persinger (2012), *Doubling of Photon Emissions...* [DOI](http://dx.doi.org/10.4236/jbpc.2012.31009)  
+- Rouleau & Persinger (2014), *Non-Local pH Shifts...* [DOI](http://dx.doi.org/10.4236/jbpc.2014.52006)  
+- Kernbach (2017), *Circular Poynting Vector Emitters* [link](http://www.unconv-science.org/e2/kernbach1)  
+- Puthoff (1998), US Patent 5,845,220: *Scalar/Vector Potential Communications* [patent](https://patents.google.com/patent/US5845220A/en)  
+- Krishnan (2017), *Military Neuroscience and the Coming Age of Neurowarfare*  
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is for **academic, defensive, and educational purposes only**.  
+Any application of these techniques must comply with applicable laws and ethics guidelines for EM emissions, human subject research, and cybersecurity practice.
+
+---
+
+## 🧠 Maintainers
+
+**Ceilli Research / Autonomous019**  
+Exploring the intersection of **quantum physics, neuroscience, and cybersecurity**.
+
+
+
+# 🔐 Aharonov–Bohm Cybersecurity Toolkit
+
+This repository explores **Aharonov–Bohm Effect (ABE)** physics as both a *threat model* and a *defense tool* in the emerging field of **neural & quantum cybersecurity**.  
+It combines theoretical analysis, simulation code, and **DIY hardware builds** (LED and coil emitters) to help researchers study and mitigate phase-based attacks on quantum and biological systems.
+
+---
+
+## 📖 Overview
+
+Traditional cybersecurity protects networks and code — here we focus on **fields and phases**.
+
+- **ABE:** Phase shifts induced by electromagnetic vector potentials, even in “field-free” regions.
+- **Quantum Entanglement:** Nonlocal correlations exploited in QKD and quantum sensing.
+- **Overlap:** Both can transmit information nonlocally, but ABE is deterministic and tunable — making it attractive for **covert communication** or **interference**.
+
+---
+
+## 🧠 Cybersecurity Threat Model
+
+| Threat Vector | Impact on Quantum Systems | Impact on Biological Systems |
+|---------------|------------------------|-----------------------------|
+| **Phase Manipulation** | Bias qubit measurement statistics, disrupt QKD | Entrain or desynchronize brain oscillations |
+| **Decoherence Injection** | Denial-of-service on quantum processors | Induce cognitive fatigue or confusion |
+| **Covert Channels** | Leak information across air-gapped systems | Enable subliminal entrainment or influence |
+| **Accelerating Rhythms** | Sweep resonant gates to maximize effect | Exploit 3 ms neuronal phase-reset windows |
+
+---
+
+## 🛠️ Hardware Countermeasure Systems
+
+This repository also contains **DIY builds** for creating local protective fields using:
+
+- **LED-Based Randomized Emitter**
+  - Modulates a high-power IR LED or bulb with randomized accelerating rhythms
+  - Produces phase noise that can mask remote EM or optical influence
+- **Toroidal Coil Magnetic Field Generator**
+  - Generates a rotating, angularly accelerating magnetic field (Persinger/Koren style)
+  - Can be used to “prime” or “jam” local phase-space coherence
+
+### 🔧 Quick Build Guide (Summary)
+
+1. **LED System**
+   - Use a 120 VAC E26 IR bulb + SSR-25DA relay
+   - Control SSR input from Arduino/ESP32 digital pin
+   - Drive randomized ON/OFF rhythm using provided `.ino` sketch
+   - Verify IR activity with phone camera (or IR photodiode)
+
+2. **Coil System**
+   - Wind insulated copper wire into a toroidal coil (≈150–200 turns)
+   - Connect to TIP120 transistor or logic-level MOSFET driven by Arduino PWM
+   - Power coil with 12 V DC supply
+   - Run the provided coil-driver sketch for accelerating field profiles
+
+For full step-by-step wiring diagrams and photos, see [DIY Hardware Builds](./hardware/README.md).
+
+---
+
+## 📊 Included in This Repository
+
+- **`ABE_Quantum_Cybersecurity_Report.pdf`** — formal report for security researchers  
+- **`ABE_Comm_QKD_Demos.ipynb`** — Jupyter notebook demos:  
+  - ABE phase-coded communications (BER curves)  
+  - BB84 QKD with QBER vs eavesdropper  
+- **`abe_comm_qkd_demos.py`** — batch script to regenerate plots  
+- **DIY Arduino/ESP32 Sketches** — for LED & coil emitters  
+
+---
+
+## 🛡️ Defensive Strategies
+
+- Pseudo-random vector potential noise emitters
+- Magnetometer or SQUID monitoring for abnormal potentials
+- QBER anomaly detection in QKD systems
+- EM noise shielding for biological targets
+
+---
+
+## 🖼️ Threat Surface Diagram
+
+![Threat Surface Diagram](./ABE_Threat_Surface_Diagram_FIXED.svg)
+
+---
+
+## 📚 References
+
+- Persinger & Dotta, *Journal of Biophysical Chemistry* (2012, 2013, 2014)  
+- Kernbach, *IJUS* (2017, 2018)  
+- Puthoff, US Patent 5,845,220 (1998)  
+- Krishnan, *Military Neuroscience and the Coming Age of Neurowarfare* (2017)
+
+---
+
+## ⚠️ Disclaimer
+
+For **research and defense** purposes only.  
+Always follow local regulations for EM emissions and human-subject safety.
+
+---
+
+## 🧠 Maintainers
+
+**Ceilli Research / Autonomous019**  
+Exploring the intersection of **quantum physics, neuroscience, and cybersecurity**.
+
+
+
+<hr>
 
 
 <b>Also See <a href="https://github.com/autonomous019/entanglement-medicine">Entanglement Medicine</a></b>
