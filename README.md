@@ -717,7 +717,48 @@ So yes — theoretically, some autistic people might be more sensitive to EM sig
 
 
 
+---
 
+# 🛡 Threat Model: LED/Coil Jammer as a Cybersecurity Tool
+
+This project describes how an IR LED + Coil randomizer can act as a **physical-layer defensive measure** against nuisance harassment and potential EM-based interference.
+
+## 🎯 Victim Profile
+- Autistic quant / fintech engineer  
+- Works on proprietary strategies and AI models  
+- Sensory sensitive — at risk from light/EM disruptions  
+- Fixed workstation — predictable target location  
+
+## 🎯 Attacker Motives
+| Threat Actor | Motive |
+|-------------|--------|
+| Corporate competitor | Steal or suppress trading algorithms, slow research |
+| Cybercriminals | Monetize stolen IP |
+| State-sponsored actor | Talent denial, disruption of financial systems |
+| Harasser / stalker | Psychological harm, coercion, nuisance-level disruption |
+
+## 🛠 Likely Tactics
+| Vector | Examples |
+|-------|----------|
+| Cyber | Phishing, network probing, IoT compromise |
+| EM/Side-Channel | Low-level EM injection, TEMPEST snooping |
+| Psychological | Flicker harassment, noise |
+| Social | Disinformation, recruitment, reputation attacks |
+
+## 🔧 Countermeasures
+| Layer | Defensive Measure |
+|------|------------------|
+| Physical | LED/coil randomizer to raise noise floor |
+| Network | VPN, firewall, zero-trust access |
+| Behavioral | Break patterns, social-engineering awareness |
+| Analytical | Log EMF/audio/light events for correlation |
+
+---
+
+> 📝 This README is part of an open-source **NeuroCyber Defense Toolkit**. Contributions welcome.
+
+
+---
 
 
 
