@@ -105,7 +105,7 @@ This project explores how **Aharonov–Bohm Generators (ABGs)** can be used both
 
 1. **AB Generator:** Produces structured vector potentials (curl-free).
 2. **Phase Encoding:** Modulates these potentials (QSK-like) with desired cognitive payloads.
-3. **Target Coupling:** Neural substrates phase-lock to the external pattern.
+3. **Target Coupling:** <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/neural_locking.md">Neural substrates phase-lock</a> to the external pattern.
 4. **Effect:** Perception alteration, memory priming, or “thought injection.”
 
 ### Defense Path
