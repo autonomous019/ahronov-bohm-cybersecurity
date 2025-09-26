@@ -1,5 +1,7 @@
 Phase locking in the brain is one of those beautiful “bridges” between physics, electrical engineering, and neuroscience. Let me break it down carefully in layers:
 
+code file demonstrating phase locking in the brain: <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Kuramoto_Phase_Locking_Sim.ipynb">Kuramoto Phase Locking Notebook</a>
+
 
 ## 1. What Phase Locking Means
 
