@@ -6,7 +6,7 @@ effects from the primary link created by ABE, thus the criticisms are based on f
 
 --Quantum Entanglement (EPR-type):
 
---Entanglement arises when two systems share a joint quantum state that cannot be factorized into independent states.
+    --Entanglement arises when two systems share a joint quantum state that cannot be factorized into independent states.
 
 The correlation is born at the interaction or common source (e.g., a photon pair from parametric down-conversion).
 
