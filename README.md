@@ -733,6 +733,13 @@ MIT. PRs welcome—especially repeatable tests, field data, and better estimator
 ## Overview
 This document provides a detailed technical and historical summary of Lockheed Martin’s **“Cognitive Enhancement Using Feedback”** patent (US 9,943,698 B2) and its conceptual relationship to the earlier research conducted by **John D. Norseen** under NASA Contract N66001-97-C-8605.
 
+<blockquote>Data Communications Requirements, Technology and Solutions for Aviation Weather Information Systems – Phase I Report: Aviation Weather Communications Requirements<br />
+Date: March 1999 <br />
+Performers: Lockheed Martin Aeronautical Systems + AvCS Inc. <br />
+Sponsor: NASA / NRaD (Naval Command, Control & Ocean Surveillance Center) <br />
+Contract Number: N66001-97-C-8605 <br />
+PI/Contributors: Charles J. Chase (program lead, avionics systems), John Norseen (contributor on human factors and neural interface modeling), AvCS team for data link protocols.</blockquote>
+
 The goal is to situate the patent within the broader continuum of **neuro-adaptive control systems** — technologies designed to sense, interpret, and dynamically modulate human cognitive state to optimize performance in aviation and defense applications.
 
 ---
