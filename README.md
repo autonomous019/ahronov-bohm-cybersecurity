@@ -174,6 +174,16 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
 <h1>Lockheed Martin Patent that proposes reading minds via the AB Effect</h1>
 
 
+## "Utilizing AB sensor 100, innermost electronics signals
+may be sensed from well protected hardware, which may be
+hundreds of miles away. Furthermore, AB sensor 100 may be
+so sensitive that it can detect waves emanating from a
+human's nerve system. Thus, a person’s mind may be read
+without the person realizing it. Based on the direction and
+strength of a signal, distribution of currents (e.g., thoughts) in
+the brain can be mapped out" pg. 10, line 49-54 of Patent US 8,389,948 B2
+
+
 # README — Lockheed Martin <a href="https://patentimages.storage.googleapis.com/fe/bb/78/e632d33e77d742/US8389948.pdf">“Aharonov–Bohm Sensor” (US 8,389,948 B2) </a>
 
 **Inventors:** Moe J. Arman & Charles J. Chase  
