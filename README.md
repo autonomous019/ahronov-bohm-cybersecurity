@@ -169,6 +169,166 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
 
 
 
+<hr>
+
+<h3>Lockheed Martin Patent that proposes reading minds via the AB Effect</h3>
+
+
+# README — Lockheed Martin “Aharonov–Bohm Sensor” (US 8,389,948 B2)
+
+**Inventors:** Moe J. Arman & Charles J. Chase  
+**Assignee:** Lockheed Martin Corporation  
+**Grant Date:** 2013-03-05  
+**Patent Title:** *Aharonov–Bohm Sensor*  
+**Patent Type:** Quantum interferometric magnetic-potential detector
+
+---
+
+## 1  Overview
+
+The Aharonov–Bohm (AB) Sensor is a **quantum-interference-based field detector** designed to measure changes in **magnetic vector potential A** rather than the classical magnetic field B.  
+Whereas conventional magnetometers rely on the Lorentz force (q v × B) on moving charges, this device measures **phase shifts in an electron interferometer** caused by enclosed magnetic flux even when the local magnetic field is zero.
+
+In effect, it is a *quantum phase voltmeter* for A:  
+ Δφ = (e/ħ) ∮ A·dl
+
+The system isolates a field-free region (B ≈ 0) but encloses magnetic flux elsewhere, allowing the **Aharonov–Bohm phase** to modulate the interference of split electron wavefunctions. That phase shift becomes the sensed signal.
+
+---
+
+## 2  Functional Architecture
+
+### 2.1  Core Elements
+
+1. **Electron Source**
+   - Thermionic or field-emission gun producing a coherent, mono-energetic electron beam.
+   - Energy spread narrow enough to maintain path-length coherence (ΔE/E ≪ 10⁻⁴).
+
+2. **Beam Splitter / Interferometer**
+   - Electron beam is split into two coherent paths (Mach–Zehnder, ring, or double-slit geometry).
+   - One arm passes through a *shielded cage* enclosing a confined magnetic flux; the other passes through a reference path.
+
+3. **Field-Free Cage (Vector-Potential Region)**
+   - Designed so internal **B ≈ 0**, but **A ≠ 0** due to magnetic flux threading the surrounding toroid or solenoid.
+   - This ensures the phase difference arises purely from the **vector potential**, not magnetic field leakage.
+
+4. **Recombination & Interference Detector**
+   - The two paths recombine on a phosphor screen or electron multiplier.
+   - Interference fringes shift proportionally to Δφ = (e/ħ) Φ_enclosed.
+
+5. **Signal Processor**
+   - Converts fringe displacement or intensity modulation into an electrical output proportional to the external change in A or Φ.
+
+---
+
+## 3  Physical Principle
+
+The **Aharonov–Bohm effect** predicts that even in regions where **E = 0** and **B = 0**, the **vector potential A** influences the phase of a charged particle’s wavefunction:
+
+\[
+\Delta \phi = \frac{e}{\hbar} \oint \mathbf{A}\cdot d\mathbf{l}
+            = \frac{e}{\hbar} \Phi_B
+\]
+
+where Φ_B is the magnetic flux enclosed by the loop.  
+The sensor translates this microscopic phase shift into a macroscopic interference pattern variation.
+
+Because Δφ depends only on enclosed flux, the device can detect **minute perturbations in A** (and hence B at a distance) even when classical sensors read zero.
+
+---
+
+## 4  Engineering Implementation
+
+| Subsystem | Function | Key Requirements |
+|------------|-----------|-----------------|
+| **Electron optics** | Generate, collimate, and steer beam | Low emittance, vibration isolation |
+| **Vacuum system** | Maintain coherence | ≲10⁻⁷ torr |
+| **Magnetic shielding** | Exclude external B | µ-metal or superconducting layers |
+| **Flux source** | Provide controlled A inside cage | Toroidal coil with known current |
+| **Fringe readout** | Translate phase to voltage | CCD/CMOS array, lock-in amplifier |
+| **Feedback control** | Stabilize operating point | Piezo mirror or electrostatic plates |
+| **Signal conditioning** | Noise rejection | Lock-in demodulation, differential amplification |
+
+---
+
+## 5  Operating Modes
+
+1. **Static A measurement:** Detect constant magnetic flux changes (gradiometric operation).  
+2. **Dynamic A sensing:** Use lock-in modulation of flux coil to reference phase; output proportional to dΦ/dt.  
+3. **Differential AB array:** Multiple interferometers with orthogonal orientations yield vector-resolved A.
+
+---
+
+## 6  Sensitivity & Advantages
+
+- **Quantum-limited detection:** Phase resolution ≈ 10⁻⁴ rad yields fT–pT-equivalent B sensitivity.  
+- **Field-free sensing:** Immune to local magnetic shielding; can probe *enclosed* flux at a distance.  
+- **Compactness:** Microscale electron-optics allow potential integration onto chips.  
+- **Low power:** No continuous magnetic excitation required; measurement from interference pattern only.
+
+---
+
+## 7  Applications (as proposed)
+
+| Domain | Use Case |
+|---------|----------|
+| **Navigation / gravimetry** | Detect magnetic anomalies, sub-nT field gradients for geophysical or inertial navigation. |
+| **Non-destructive testing** | Probe hidden currents or magnetic flux in enclosed conductors. |
+| **Secure detection** | Measure stealth fields or shielded EM sources undetectable by classical magnetometers. |
+| **Fundamental physics** | Laboratory verification of AB phase shifts in engineered geometries. |
+
+---
+
+## 8  Key Innovations Over Prior Art
+
+1. **“Field-free” cage geometry** — ensures that the phase shift arises solely from A, not residual B.  
+2. **Differential interferometer array** — enables vector mapping of A.  
+3. **Lockheed implementation details** — mechanical stability, cryogenic or vacuum constraints, and noise-reduction architecture suitable for deployable instrumentation.  
+4. **Output linearization** — digital feedback loop maintaining fringe lock at quadrature point, converting quantum phase shift to linear analog voltage.
+
+---
+
+## 9  Potential Extensions
+
+- Replace free-electron interferometer with **solid-state AB rings** (e.g., 2DEG, carbon nanotube, or graphene loops) for miniaturization.  
+- Employ **optical AB analogs** using photonic interferometers with synthetic gauge potentials.  
+- Integrate with **OPM/NV magnetometers** as hybrid arrays for multi-physics field mapping.
+
+---
+
+## 10  Comparison Snapshot
+
+| Aspect | AB Sensor (Arman & Chase) | Puthoff Vector-Potential Comm | Classical Magnetometer |
+|--------|----------------------------|-------------------------------|-----------------------|
+| Senses | Vector potential A | Modulated A / φ (communication) | Magnetic field B |
+| Physical basis | Electron-wave interference | Josephson / superconducting phase | Lorentz force |
+| Output | Fringe phase shift | Phase modulation in receiver | Voltage/current from coil |
+| Region of sensitivity | Field-free enclosures | Claimed remote A propagation | Local B field |
+| Engineering maturity | Lab-grade prototype | Theoretical / speculative | Fully mature |
+
+---
+
+## 11  Summary for Implementers
+
+The AB Sensor is effectively a **phase-sensitive, quantum-coherent gradiometer** for the magnetic vector potential.  
+Unlike conventional devices that measure energy exchange (force, torque), this sensor measures **pure phase topology** of the electromagnetic potential field.  
+Its practical realization requires:
+- Stable electron coherence,
+- Extreme shielding and vibration control,
+- Precision interferometric readout,
+- Digital feedback for phase tracking.
+
+Although primarily a physics demonstrator, the underlying principle can inform future **non-contact, ultra-sensitive field imagers** or **quantum reference systems** for navigation, surveillance, or metrology.
+
+---
+
+
+
+
+
+
+
+
 
 
 # 🔐 DIY Countermeasures
