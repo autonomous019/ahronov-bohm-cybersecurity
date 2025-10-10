@@ -171,10 +171,10 @@ Therefore, based on western academic research (Persinger et al; Kernbach et al),
 
 <hr>
 
-<h3>Lockheed Martin Patent that proposes reading minds via the AB Effect</h3>
+<h1>Lockheed Martin Patent that proposes reading minds via the AB Effect</h1>
 
 
-# README — Lockheed Martin “Aharonov–Bohm Sensor” (US 8,389,948 B2)
+# README — Lockheed Martin <a href="https://patentimages.storage.googleapis.com/fe/bb/78/e632d33e77d742/US8389948.pdf">“Aharonov–Bohm Sensor” (US 8,389,948 B2) </a>
 
 **Inventors:** Moe J. Arman & Charles J. Chase  
 **Assignee:** Lockheed Martin Corporation  
