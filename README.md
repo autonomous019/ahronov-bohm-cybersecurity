@@ -862,6 +862,10 @@ Chase and Yonas’s **Cognitive Feedback patent (US 9,943,698 B2)** represents t
 
 ---
 
+
+
+<h2>Dual Use Technology for Medical Treatment of Autism Theory</h2>
+
 In the following I present a conversation with chatgpt4.o regarding the scientific theories explaining how this works:
 
 <blockquote>
