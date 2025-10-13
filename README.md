@@ -1,4 +1,4 @@
-# ahronov-bohm-cybersecurity
+# aharonov-bohm-cybersecurity (yes it's mis-spelled in the url link, sorry, too late to change it)
 
 
 ## ⚠️ Disclaimer
@@ -13,7 +13,7 @@ Any application of these techniques must comply with applicable laws and ethics 
 Exploring the intersection of **quantum physics, neuroscience, and cybersecurity**.
 
 
- <h3> <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Ahronov-Bohm Effect Cybersecurity</a></h3>
+ <h3> <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Aharonov-Bohm Effect Cybersecurity</a></h3>
 By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@protonmail.com)<br>
 
 
@@ -41,7 +41,7 @@ It is based on the utilization of the <a href="https://github.com/autonomous019/
 The code file is a Arduino Sketch file designed for use with the Ahronov-Bohm coil a piece of the Ahronov-Bohm generator created by Dr. Hal Puthoff.  I prefer the <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/accelerate_frequency_driver.ino">accelerate_frequency_driver.ino</a> it sets 4 random frequencies (salts) before a repeating pattern of accelerating EM wave forms. The salt is intended to create an unguessable pattern to the frequencies otherwise anyone with a coil with the same patterns could be used as an attack vector. 
 
 
-
+<b>Also See:</b> <a href="https://github.com/autonomous019/aharonov-bohm-non-invasive-brain-computer-interface/">Aharonov-Bohm Brain Computer Interface Project</a>
 
 <hr>
 
