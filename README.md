@@ -9,8 +9,7 @@ Any application of these techniques must comply with applicable laws and ethics 
 
 ## 🧠 Maintainers
 
-**<a href="https://www.ceilli.com">Céillí.com</a> Cybersecurity Division / Autonomous019**  
-Exploring the intersection of **quantum physics, neuroscience, and cybersecurity**.
+
 
 
  <h3> <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true">Aharonov-Bohm Effect Cybersecurity</a></h3>
@@ -18,7 +17,7 @@ By Michael. J. McCarron, 2021 (independent cybersecurity consultant, macciarain@
 
 
 <p align="center"><b>click on book cover to download <a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">free eBook PDF</a></b></p>
-<a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">
+<a href="https://drive.proton.me/urls/3HCQA919S8#ApZYtaBfUFzZ">
 <img src="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true"></a>
 
 
@@ -36,7 +35,7 @@ This work is derived from research on my Cybersecurity book: 'Battlespace of Min
 
 This project is aimed at Blue Team cybersecurity regarding the noosphere, the mind, or nouscurity, it can be applied to hardware such as embedded medical devices and wetware, such as the brain itself. It is based on the scientific neurocognitive research originating in the Soviet Military and then continued in public research in the West such as Dr. Serge Kernbach at University of Stuttgart and Dr. Michael Persinger of Laurentian University.  This research is also within the US Military Defense industry and hence is usually classified.  This countermeasure is inspired by Persinger (2002) where discussion of countering remote viewing is reviewed. 
 
-It is based on the utilization of the <a href="[[https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/The%20Aharonov%E2%80%93Bohm%20Effect_%20Phase%20Coherence%20from%20Physics%20to%20Biology.pdf](https://drive.proton.me/urls/3HCQA919S8#ApZYtaBfUFzZ)](https://drive.proton.me/urls/3HCQA919S8#ApZYtaBfUFzZ)">Ahronov-Bohm effect</a>, creating a potential energy shield to guard against cyberbased attacks on hardware and software. It protects the user from invasive electro-magnetic frequencies, effectively scrambling them before reaching the target vector, for instance the Microtubules of the Neurons in the Brain.   
+It is based on the utilization of the <a href="https://drive.proton.me/urls/3HCQA919S8#ApZYtaBfUFzZ">Ahronov-Bohm effect</a>, creating a potential energy shield to guard against cyberbased attacks on hardware and software. It protects the user from invasive electro-magnetic frequencies, effectively scrambling them before reaching the target vector, for instance the Microtubules of the Neurons in the Brain.   
 
 The code file is a Arduino Sketch file designed for use with the Ahronov-Bohm coil a piece of the Ahronov-Bohm generator created by Dr. Hal Puthoff.  I prefer the <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity/blob/main/accelerate_frequency_driver.ino">accelerate_frequency_driver.ino</a> it sets 4 random frequencies (salts) before a repeating pattern of accelerating EM wave forms. The salt is intended to create an unguessable pattern to the frequencies otherwise anyone with a coil with the same patterns could be used as an attack vector. 
 
